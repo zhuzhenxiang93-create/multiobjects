@@ -1,0 +1,10 @@
+[
+  {
+    "prompt_id": "easy_n20_001",
+    "prompt": "Twenty orange pumpkins roll along a supermarket produce-sorting belt.",
+    "n_objects": 20,
+    "category_counts": {
+      "pumpkin": 20
+    }
+  }
+]

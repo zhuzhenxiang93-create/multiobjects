@@ -1,0 +1,45 @@
+{
+  "device": "NVIDIA H200",
+  "torch": "2.6.0+cu124",
+  "checks": [
+    {
+      "backend": "sage_HND",
+      "length": 128,
+      "finite": true,
+      "relative_l2": 0.036419253796339035,
+      "max_abs": 0.029551804065704346,
+      "cosine": 0.9993367195129395
+    },
+    {
+      "backend": "lightx2v_NHD",
+      "length": 128,
+      "finite": true,
+      "relative_l2": 0.036419253796339035,
+      "max_abs": 0.029551804065704346,
+      "cosine": 0.9993367195129395
+    },
+    {
+      "backend": "sage_HND",
+      "length": 512,
+      "finite": true,
+      "relative_l2": 0.03727489709854126,
+      "max_abs": 0.024570375680923462,
+      "cosine": 0.9993051290512085
+    },
+    {
+      "backend": "lightx2v_NHD",
+      "length": 512,
+      "finite": true,
+      "relative_l2": 0.03727490082383156,
+      "max_abs": 0.024570375680923462,
+      "cosine": 0.9993051290512085
+    }
+  ],
+  "rope_identity_passed": true,
+  "zero_value_diagnostic": {
+    "finite": false,
+    "max_abs": 0.0,
+    "exact_zero": false
+  },
+  "status": "passed"
+}

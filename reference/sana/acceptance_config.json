@@ -1,0 +1,34 @@
+{
+  "prompt": "A red car drives along a residential street.",
+  "prompt_id": "easy_n01_001",
+  "prompt_source": "/data/zzhu126/multi_object_benchmark/datasets/cogvideox_prompt_v1_1/prompts650.json",
+  "output_dir": "/data/zzhu126/multi_object_benchmark/generations/sana_video2_acceptance_v1",
+  "expected": [
+    1280,
+    736,
+    193
+  ],
+  "dependency": "afterany:24761",
+  "entrypoint": "/data/zzhu126/multi_object_benchmark/runtime/source_repos/Sana-video2/inference_video_scripts/inference_sana_video.py",
+  "argv": [
+    "inference_sana_video.py",
+    "--config=/data/zzhu126/multi_object_benchmark/runtime/deployments/Sana-video2/config.yaml",
+    "--model_path=/data/zzhu126/multi_object_benchmark/runtime/models/Sana-video2/transformer/checkpoints/SANA_Video_2.0_5B_720p.pth",
+    "--txt_file=/data/zzhu126/multi_object_benchmark/runtime/deployments/Sana-video2/prompt.txt",
+    "--dataset=benchmark_acceptance",
+    "--cfg_scale=8",
+    "--flow_shift=12",
+    "--step=50",
+    "--fps=24",
+    "--motion_score=20",
+    "--seed=42",
+    "--num_frames=193",
+    "--custom_height_width=[736,1280]",
+    "--bs=1",
+    "--start_index=0",
+    "--end_index=1",
+    "--work_dir=/data/zzhu126/multi_object_benchmark/generations/sana_video2_acceptance_v1"
+  ],
+  "automatic_prompt_enhancement": false,
+  "text_conditioning_template": "official chi_prompt encoder preamble; no generated rewrite"
+}

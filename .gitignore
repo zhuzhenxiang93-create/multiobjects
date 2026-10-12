@@ -1,0 +1,16 @@
+results/
+outputs/
+weights/
+cache/
+.venv/
+.env
+.env.*
+!.env.example
+*.mp4
+*.safetensors
+*.pt
+*.pth
+*.whl
+__pycache__/
+*.pyc
+.DS_Store

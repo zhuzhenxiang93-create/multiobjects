@@ -1,0 +1,9 @@
+{
+  "width": 1280,
+  "height": 768,
+  "num_frames": 193,
+  "fps": 24,
+  "steps": "8+4 fixed",
+  "backend": "official distilled",
+  "offload": "cpu"
+}

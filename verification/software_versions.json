@@ -1,0 +1,50 @@
+{
+  "sana": {
+    "python": "3.11.13",
+    "packages": {
+      "torch": "2.9.1+cu128",
+      "transformers": "4.57.3",
+      "diffusers": "0.39.0",
+      "triton": "3.5.1",
+      "av": "18.1.0",
+      "mmcv": "1.7.2",
+      "xformers": "0.0.33.post2"
+    },
+    "source_commit": "0354b3d88a9b60a129213863f687da95d00fb108"
+  },
+  "wan": {
+    "python": "3.12.13",
+    "packages": {
+      "torch": "2.6.0",
+      "transformers": "4.51.3",
+      "diffusers": "0.39.0",
+      "sageattention": "2.2.0",
+      "lightx2v": "0.5.0",
+      "triton": "3.2.0",
+      "av": "19.0.1"
+    },
+    "source_commit": "cabb8bb684e44af5aa19be437f2e15082855cb96"
+  },
+  "ltx25": {
+    "python": "3.12.13",
+    "packages": {
+      "torch": "2.13.0+cu132",
+      "transformers": "5.14.1",
+      "triton": "3.7.1",
+      "av": "19.0.1"
+    },
+    "source_commit": "9ec55f9f22798a3198d9c923856824821bc3317e"
+  },
+  "hunyuan": {
+    "python": "3.12.13",
+    "packages": {
+      "torch": "2.6.0",
+      "transformers": "4.57.1",
+      "diffusers": "0.35.0",
+      "sageattention": "2.2.0",
+      "triton": "3.2.0",
+      "av": "19.0.1"
+    },
+    "source_commit": "60783e704160023913bee78f0b47036d393d4dfa"
+  }
+}

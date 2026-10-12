@@ -1,0 +1,9 @@
+{
+  "width": 1280,
+  "height": 720,
+  "num_frames": 121,
+  "fps": 24,
+  "steps": 50,
+  "backend": "official SageAttention2 + DeepCache",
+  "offload": false
+}

@@ -1,0 +1,11 @@
+{
+  "width": 1280,
+  "height": 736,
+  "num_frames": 193,
+  "fps": 24,
+  "steps": 50,
+  "backend": "official flow_dpm-solver",
+  "cfg": 8,
+  "shift": 12,
+  "vae_tiling": "spatial512/448 temporal16/8"
+}

@@ -1,0 +1,41 @@
+{
+  "prompt": "A red car drives along a residential street.",
+  "prompt_id": "easy_n01_001",
+  "output_dir": "{OUTPUT_DIR}",
+  "expected": [
+    1280,
+    768,
+    193
+  ],
+  "argv": [
+    "ltx_pipelines.distilled",
+    "--transformer-path",
+    "{WEIGHTS}/diffusion_models/ltx-2.5-22b-distilled-transformer-bf16.safetensors",
+    "--text-encoder-path",
+    "{WEIGHTS}/text_encoders/gemma4-12b-with-proj-ltx-2.5-bf16.safetensors",
+    "--video-vae-path",
+    "{WEIGHTS}/vae/ltx-2.5-video-vae-bf16.safetensors",
+    "--audio-vae-path",
+    "{WEIGHTS}/vae/ltx-2.5-audio-vae-bf16.safetensors",
+    "--spatial-upsampler-path",
+    "{WEIGHTS}/latent_upscale_models/ltx-2.5-latent-spatial-upscaler-x2-bf16-1.0.safetensors",
+    "--height",
+    "768",
+    "--width",
+    "1280",
+    "--num-frames",
+    "193",
+    "--frame-rate",
+    "24",
+    "--seed",
+    "42",
+    "--output-path",
+    "{OUTPUT_FILE}",
+    "--prompt",
+    "{PROMPT}",
+    "--offload",
+    "cpu"
+  ],
+  "automatic_prompt_enhancement": false,
+  "pipeline": "DistilledPipeline: BF16 transformer, Gemma4 12B, diffusion VAE, audio VAE, x2 spatial upscaler; 8+4 fixed steps; CPU weight offload"
+}

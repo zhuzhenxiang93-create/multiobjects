@@ -1,0 +1,32 @@
+{
+  "prompt": "A red car drives along a residential street.",
+  "prompt_id": "easy_n01_001",
+  "output_dir": "{OUTPUT_DIR}",
+  "expected": [
+    1280,
+    736,
+    193
+  ],
+  "entrypoint": "{SOURCE}/inference_video_scripts/inference_sana_video.py",
+  "argv": [
+    "inference_sana_video.py",
+    "--config={CONFIG}",
+    "{WEIGHTS}/transformer/checkpoints/SANA_Video_2.0_5B_720p.pth",
+    "--txt_file={PROMPT_FILE}",
+    "--dataset=benchmark_acceptance",
+    "--cfg_scale=8",
+    "--flow_shift=12",
+    "--step=50",
+    "--fps=24",
+    "--motion_score=20",
+    "--seed=42",
+    "--num_frames=193",
+    "--custom_height_width=[736,1280]",
+    "--bs=1",
+    "--start_index=0",
+    "--end_index=1",
+    "--work_dir={OUTPUT_DIR}"
+  ],
+  "automatic_prompt_enhancement": false,
+  "text_conditioning_template": "official chi_prompt encoder preamble; no generated rewrite"
+}

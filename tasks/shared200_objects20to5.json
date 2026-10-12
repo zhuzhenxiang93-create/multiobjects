@@ -1,0 +1,2628 @@
+[
+  {
+    "prompt_id": "easy_n20_001",
+    "prompt": "Twenty orange pumpkins roll along a supermarket produce-sorting belt.",
+    "n_objects": 20,
+    "category_counts": {
+      "pumpkin": 20
+    }
+  },
+  {
+    "prompt_id": "easy_n20_002",
+    "prompt": "Across a metalworking shop floor, twenty red toolboxes move along an automated conveyor beneath a workbench.",
+    "n_objects": 20,
+    "category_counts": {
+      "toolbox": 20
+    }
+  },
+  {
+    "prompt_id": "easy_n20_003",
+    "prompt": "Twenty flamingos wade through a shallow coastal lagoon.",
+    "n_objects": 20,
+    "category_counts": {
+      "flamingo": 20
+    }
+  },
+  {
+    "prompt_id": "easy_n20_004",
+    "prompt": "Five deer walk across the orchard grass while five pickup trucks move along the track and five rabbits hop between the rows. Five farmers walk down another row.",
+    "n_objects": 20,
+    "category_counts": {
+      "farmer": 5,
+      "deer": 5,
+      "pickup truck": 5,
+      "rabbit": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n20_001",
+    "prompt": "Across an urban building site, a yellow excavator rotates, a red dump truck drives, a yellow bulldozer moves, and an orange forklift rolls. A white concrete mixer truck turns, a blue crane rotates, a green road roller travels, and a yellow-jacketed surveyor walks. A black-and-yellow wheel loader advances, a silver utility vehicle drives, a blue-helmeted mason crosses, and a white water truck moves. An orange-vested site engineer walks, a white site office stands, a wooden material pallet rests, and a gray tool cabinet stands. A yellow warning sign stands, a silver portable light stands, a blue storage container stands, and a red safety barrier stands.",
+    "n_objects": 20,
+    "category_counts": {
+      "road roller": 1,
+      "surveyor": 1,
+      "wheel loader": 1,
+      "utility vehicle": 1,
+      "mason": 1,
+      "water truck": 1,
+      "site engineer": 1,
+      "excavator": 1,
+      "dump truck": 1,
+      "bulldozer": 1,
+      "forklift": 1,
+      "concrete mixer truck": 1,
+      "crane": 1,
+      "warning sign": 1,
+      "portable light": 1,
+      "storage container": 1,
+      "safety barrier": 1,
+      "site office": 1,
+      "material pallet": 1,
+      "tool cabinet": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n20_002",
+    "prompt": "Along a suburban train platform, a green shuttle bus leaves, an orange-clad rail worker walks, a white service car crosses, and a yellow maintenance vehicle travels. A silver commuter train advances, a red freight locomotive passes, a gray-coated passenger walks, and a navy-uniformed conductor paces. A green-uniformed station porter walks, a yellow-vested station cleaner walks, a gray pigeon flutters, and a blue tram glides. A white taxi turns, a gray luggage locker stands, a white platform sign hangs, and a green waste bin sits. A blue ticket machine stands, a round station clock hangs, a steel bench sits, and a red signal post stands.",
+    "n_objects": 20,
+    "category_counts": {
+      "service car": 1,
+      "maintenance vehicle": 1,
+      "commuter train": 1,
+      "freight locomotive": 1,
+      "passenger": 1,
+      "conductor": 1,
+      "station porter": 1,
+      "station cleaner": 1,
+      "pigeon": 1,
+      "tram": 1,
+      "taxi": 1,
+      "shuttle bus": 1,
+      "rail worker": 1,
+      "bench": 1,
+      "signal post": 1,
+      "luggage locker": 1,
+      "platform sign": 1,
+      "waste bin": 1,
+      "ticket machine": 1,
+      "station clock": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n20_003",
+    "prompt": "Across a sheltered coastal bay, a spotted seal swims, a yellow kayak cuts, a white sailboat sails, and a blue fishing boat crosses. A red speedboat crosses, a green-clad jogger runs, a golden dog bounds, and a striped kite drifts. A black cormorant flies, a brown pelican flaps, a white seagull glides, and a black-capped tern dives. A gray dolphin surfaces, a red-and-white rescue ring hangs, a pale driftwood log lies, and a yellow warning sign stands. A turquoise beach hut stands, a white lifeguard chair stands, a blue cooler rests, and a striped beach umbrella stands.",
+    "n_objects": 20,
+    "category_counts": {
+      "jogger": 1,
+      "dog": 1,
+      "kite": 1,
+      "cormorant": 1,
+      "pelican": 1,
+      "seagull": 1,
+      "tern": 1,
+      "dolphin": 1,
+      "seal": 1,
+      "kayak": 1,
+      "sailboat": 1,
+      "fishing boat": 1,
+      "speedboat": 1,
+      "warning sign": 1,
+      "beach hut": 1,
+      "lifeguard chair": 1,
+      "cooler": 1,
+      "beach umbrella": 1,
+      "rescue ring": 1,
+      "driftwood log": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n20_004",
+    "prompt": "Beside a wetland boardwalk, a green frog hops, a striped turtle crawls, a blue dragonfly darts, and a blackbird with red shoulder patches flutters. A brown dog swims, a khaki-clad person walks, a gray goose flaps, and a speckled pigeon runs. A green-headed duck paddles, a blue-gray duck wades, a white swan flies, and a brown fish swims near the surface. A sleek otter dives, a blue information sign stands, a woven reed basket rests, and a wooden observation platform stands. A green nesting box stands, a striped water gauge stands, a weathered bench sits, and a red channel marker stands.",
+    "n_objects": 20,
+    "category_counts": {
+      "dog": 1,
+      "person": 1,
+      "goose": 1,
+      "pigeon": 1,
+      "duck": 2,
+      "swan": 1,
+      "fish": 1,
+      "otter": 1,
+      "frog": 1,
+      "turtle": 1,
+      "dragonfly": 1,
+      "blackbird": 1,
+      "reed basket": 1,
+      "observation platform": 1,
+      "nesting box": 1,
+      "water gauge": 1,
+      "bench": 1,
+      "channel marker": 1,
+      "information sign": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n20_001",
+    "prompt": "Along a busy freight terminal, two blue service vans drive past the dock, two black conveyor belts run through the sorting area, two blue-uniformed warehouse workers walk along the aisle, and two orange mobile robots roll across the floor. Within view, two green electric tugs move down the lane, two red-vested supervisors walk beside the loading area, two orange-shirted people walk toward the loading bay, and two white packing tables stand. Two red fire extinguishers hang while two orange safety cones stand.",
+    "n_objects": 20,
+    "category_counts": {
+      "conveyor belt": 2,
+      "warehouse worker": 2,
+      "mobile robot": 2,
+      "electric tug": 2,
+      "supervisor": 2,
+      "person": 2,
+      "service van": 2,
+      "fire extinguisher": 2,
+      "safety cone": 2,
+      "packing table": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n20_002",
+    "prompt": "Across a high mountain meadow, two blue butterflies flutter over alpine flowers, two blue-shirted trail runners run downhill, two brown marmots scurry across the slope, and two black ravens fly past the ridge. Two gray-brown donkeys walk along the ridge, two orange-helmeted climbers move across the rock face, two gray dogs trot beside the path, and two green map boards stand. In another part of the scene, two stacked stone cairns stand while two wooden trail shelters stand.",
+    "n_objects": 20,
+    "category_counts": {
+      "climber": 2,
+      "dog": 2,
+      "butterfly": 2,
+      "trail runner": 2,
+      "marmot": 2,
+      "raven": 2,
+      "donkey": 2,
+      "trail shelter": 2,
+      "map board": 2,
+      "stone cairn": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n20_003",
+    "prompt": "Four customers in green coats walk through a food hall as three red-aproned servers cross the aisle and three white-capped cooks move behind the counters. Two silver delivery robots roll beside two blue service carts while two orange-uniformed cleaners walk past. A black conveyor belt runs near a wooden packing table, a copper kettle releases steam, and a white menu board hangs overhead.",
+    "n_objects": 20,
+    "category_counts": {
+      "customer": 4,
+      "server": 3,
+      "cook": 3,
+      "delivery robot": 2,
+      "service cart": 2,
+      "cleaner": 2,
+      "conveyor belt": 1,
+      "menu board": 1,
+      "packing table": 1,
+      "kettle": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n19_001",
+    "prompt": "Nineteen skaters circle an outdoor ice rink.",
+    "n_objects": 19,
+    "category_counts": {
+      "skater": 19
+    }
+  },
+  {
+    "prompt_id": "easy_n19_002",
+    "prompt": "Inside a garden-supply greenhouse, nineteen green watering cans move along a packing conveyor beside the vegetable beds.",
+    "n_objects": 19,
+    "category_counts": {
+      "watering can": 19
+    }
+  },
+  {
+    "prompt_id": "easy_n19_003",
+    "prompt": "Nineteen sheep trot across a grassy pasture.",
+    "n_objects": 19,
+    "category_counts": {
+      "sheep": 19
+    }
+  },
+  {
+    "prompt_id": "easy_n19_004",
+    "prompt": "Five ducks paddle through lagoon reeds as seven fish swim near the surface and three turtles crawl over logs. Four people walk along the boardwalk.",
+    "n_objects": 19,
+    "category_counts": {
+      "person": 4,
+      "duck": 5,
+      "fish": 7,
+      "turtle": 3
+    }
+  },
+  {
+    "prompt_id": "hard_n19_001",
+    "prompt": "A white-jerseyed person jogs, an orange-vested person walks, a gray rabbit hops on school grounds; a brown dog races. A yellow-jacketed person walks, a purple-clad person circles, two green-uniformed people cross, and a diamond-shaped kite drifts. A gray pigeon flaps, a yellow school bus advances, and a blue-shirted person runs. A red-jerseyed person sprints, a blue bench sits, a red backpack rests, and a silver water fountain stands. An orange traffic cone stands, a black scoreboard stands, and a steel bicycle rack stands.",
+    "n_objects": 19,
+    "category_counts": {
+      "person": 8,
+      "rabbit": 1,
+      "dog": 1,
+      "kite": 1,
+      "pigeon": 1,
+      "school bus": 1,
+      "bench": 1,
+      "backpack": 1,
+      "water fountain": 1,
+      "traffic cone": 1,
+      "scoreboard": 1,
+      "bicycle rack": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n19_002",
+    "prompt": "Along a fishing port quay, an orange-jacketed dockworker walks, a blue-coated fisher walks, a silver harbor truck drives, and a yellow forklift rolls. A white seagull glides, a brown pelican flies, a gray seal swims, and a navy-uniformed harbor patrol officer walks. An orange coastguard boat cuts, a blue fishing boat heads, a red tugboat crosses, and a white sailboat moves. A yellow speedboat crosses, a white harbor sign stands, a red lifebuoy hangs, and a green storage shed stands. A yellow fuel pump stands, a black mooring bollard stands, and a blue fish crate rests.",
+    "n_objects": 19,
+    "category_counts": {
+      "sailboat": 1,
+      "speedboat": 1,
+      "dockworker": 1,
+      "fisher": 1,
+      "harbor truck": 1,
+      "forklift": 1,
+      "seagull": 1,
+      "pelican": 1,
+      "seal": 1,
+      "harbor patrol officer": 1,
+      "coastguard boat": 1,
+      "fishing boat": 1,
+      "tugboat": 1,
+      "fish crate": 1,
+      "harbor sign": 1,
+      "lifebuoy": 1,
+      "storage shed": 1,
+      "fuel pump": 1,
+      "mooring bollard": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n19_003",
+    "prompt": "A chestnut horse walks, a green tractor moves, a black raven flies, and a red rescue helicopter flies near a road through an alpine village. An orange-jacketed hiker climbs, a gray utility truck drives, a white sheep grazes, and a red-coated villager walks. A blue-coated mail carrier walks, a blue shuttle bus drives, a white delivery van turns, and a tan goat trots. A black dog runs, a glass bus shelter stands, a stone flower planter stands, and a carved stone fountain stands. A painted village sign stands, a red mailbox stands, and a blue route marker stands.",
+    "n_objects": 19,
+    "category_counts": {
+      "delivery van": 1,
+      "goat": 1,
+      "dog": 1,
+      "horse": 1,
+      "tractor": 1,
+      "raven": 1,
+      "rescue helicopter": 1,
+      "hiker": 1,
+      "utility truck": 1,
+      "sheep": 1,
+      "villager": 1,
+      "mail carrier": 1,
+      "shuttle bus": 1,
+      "mailbox": 1,
+      "route marker": 1,
+      "bus shelter": 1,
+      "flower planter": 1,
+      "stone fountain": 1,
+      "village sign": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n19_004",
+    "prompt": "Outside a city museum, a blue-coated person, gray-haired person, and red-jacketed child walk. A green-uniformed person crosses the plaza as an orange-shirted person moves and a yellow-helmeted person pedals a silver bicycle. A striped-shirted person moves across the square; nearby, an orange-clad person and blue-jacketed person walk while a white delivery robot rolls. A green-coated person crosses in front of a turning blue shuttle bus. A silver kinetic sculpture rotates beneath a red banner; a glass ticket pavilion, white information kiosk, black lamp post, and stone planter line the square.",
+    "n_objects": 19,
+    "category_counts": {
+      "person": 10,
+      "bicycle": 1,
+      "delivery robot": 1,
+      "shuttle bus": 1,
+      "kinetic sculpture": 1,
+      "banner": 1,
+      "ticket pavilion": 1,
+      "information kiosk": 1,
+      "lamp post": 1,
+      "planter": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n19_001",
+    "prompt": "At a neighborhood recreation complex, two gray pigeons fly over the court, two blue-jerseyed runners circle the track, two white-clad tennis players run along the baseline, and two blue-jacketed coaches walk beside the track. Two yellow-jerseyed basketball players jog across the court, two blue kites drift above the field, a green-uniformed groundskeeper walks across the lawn, and two silver drinking fountains stand. Around this activity, two blue equipment lockers stand while two white goalposts stand.",
+    "n_objects": 19,
+    "category_counts": {
+      "coach": 2,
+      "basketball player": 2,
+      "kite": 2,
+      "groundskeeper": 1,
+      "pigeon": 2,
+      "runner": 2,
+      "tennis player": 2,
+      "equipment locker": 2,
+      "goalpost": 2,
+      "drinking fountain": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n19_002",
+    "prompt": "Two white swans glide toward the inlet, two green-uniformed park rangers walk beside the lake, two striped kites drift above the shore, and two silver fishing boats move toward the pier at a lakeside recreation area. Two gray herons fly over the water, two white sailboats move across the water, two yellow-capped swimmers swim past the dock, and two green information signs stand. Two metal boat racks stand, and a steel dock ladder stands.",
+    "n_objects": 19,
+    "category_counts": {
+      "heron": 2,
+      "sailboat": 2,
+      "swimmer": 2,
+      "swan": 2,
+      "park ranger": 2,
+      "kite": 2,
+      "fishing boat": 2,
+      "information sign": 2,
+      "boat rack": 2,
+      "dock ladder": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n19_003",
+    "prompt": "Six shoppers in red coats walk through a department-store concourse while five retail assistants in black uniforms, four silver delivery robots, and four couriers with blue bags move between displays.",
+    "n_objects": 19,
+    "category_counts": {
+      "shopper": 6,
+      "retail assistant": 5,
+      "delivery robot": 4,
+      "courier": 4
+    }
+  },
+  {
+    "prompt_id": "easy_n18_001",
+    "prompt": "Along a sandy beach near a low dune, eighteen striped beach umbrellas ripple in the sea breeze.",
+    "n_objects": 18,
+    "category_counts": {
+      "beach umbrella": 18
+    }
+  },
+  {
+    "prompt_id": "easy_n18_002",
+    "prompt": "Eighteen white sheep graze in a fenced pasture beside a red barn.",
+    "n_objects": 18,
+    "category_counts": {
+      "sheep": 18
+    }
+  },
+  {
+    "prompt_id": "easy_n18_003",
+    "prompt": "Eighteen tan camels move around a shallow waterhole at a dry desert oasis.",
+    "n_objects": 18,
+    "category_counts": {
+      "camel": 18
+    }
+  },
+  {
+    "prompt_id": "easy_n18_004",
+    "prompt": "Along a school sports ground, five pigeons flap across the yard, five students run across the field, and four crossing guards walk beside the field. Along the open area, four teachers walk beside the track.",
+    "n_objects": 18,
+    "category_counts": {
+      "pigeon": 5,
+      "student": 5,
+      "crossing guard": 4,
+      "teacher": 4
+    }
+  },
+  {
+    "prompt_id": "hard_n18_001",
+    "prompt": "A silver fan turns, a blue-uniformed person walks, a yellow forklift drives at a busy freight terminal; an orange wheeled robot rolls. A white delivery truck advances, a green electric tug moves, a gray floor-cleaning machine travels, and a red-vested person walks. A black-jacketed person crosses, an orange-shirted person walks, a blue service van drives, and a black conveyor belt runs. A red fire extinguisher hangs, a steel storage rack stands, a wooden shipping pallet rests, and an orange safety cone stands. A blue loading dock sign hangs, and a white packing table stands.",
+    "n_objects": 18,
+    "category_counts": {
+      "service van": 1,
+      "conveyor belt": 1,
+      "fan": 1,
+      "person": 4,
+      "forklift": 1,
+      "robot": 1,
+      "delivery truck": 1,
+      "electric tug": 1,
+      "floor-cleaning machine": 1,
+      "loading dock sign": 1,
+      "packing table": 1,
+      "fire extinguisher": 1,
+      "storage rack": 1,
+      "shipping pallet": 1,
+      "safety cone": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n18_002",
+    "prompt": "Across a high mountain meadow, a red rescue helicopter flies, a blue butterfly flutters, a red-jacketed hiker climbs, and a blue-shirted trail runner runs. A white mountain goat scrambles, a golden eagle circles, a black raven flies, and a tan deer walks. A gray-brown donkey walks, an orange-helmeted climber moves, a woolly sheep grazes, and a gray dog trots. A wooden trail shelter stands, a weathered backpack rests, a steel ice axe lies, and a green map board stands. A clear water bottle rests while a stacked stone cairn stands.",
+    "n_objects": 18,
+    "category_counts": {
+      "eagle": 1,
+      "raven": 1,
+      "deer": 1,
+      "donkey": 1,
+      "climber": 1,
+      "sheep": 1,
+      "dog": 1,
+      "rescue helicopter": 1,
+      "butterfly": 1,
+      "hiker": 1,
+      "trail runner": 1,
+      "mountain goat": 1,
+      "stone cairn": 1,
+      "trail shelter": 1,
+      "backpack": 1,
+      "ice axe": 1,
+      "map board": 1,
+      "water bottle": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n18_003",
+    "prompt": "Inside a shopping-mall atrium, a red-coated shopper and black-uniformed retail assistant walk as an orange-clad cleaner crosses the floor. A navy security officer and blue-jacketed child walk while a silver delivery robot and gray floor-cleaning robot roll between the shops. A glass escalator runs, a transparent glass elevator rises, a red mall shuttle drives, and a blue service cart moves as a green-coated courier walks toward the atrium. A blue-shirted musician walks as a red promotional balloon drifts near a white information kiosk, white directory display, stone planter, and round clock.",
+    "n_objects": 18,
+    "category_counts": {
+      "shopper": 1,
+      "retail assistant": 1,
+      "cleaner": 1,
+      "security officer": 1,
+      "child": 1,
+      "delivery robot": 1,
+      "floor-cleaning robot": 1,
+      "escalator": 1,
+      "glass elevator": 1,
+      "mall shuttle": 1,
+      "service cart": 1,
+      "courier": 1,
+      "musician": 1,
+      "promotional balloon": 1,
+      "information kiosk": 1,
+      "directory display": 1,
+      "planter": 1,
+      "clock": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n18_004",
+    "prompt": "At a city intersection, a blue-uniformed mail carrier walks, a silver car turns, a yellow taxi drives, and a blue city bus advances. A blue-and-white police car turns, a white delivery van moves, an orange-shirted jogger runs, and a red fire engine passes. A yellow-vested traffic officer crosses, a gray pigeon flies, a red-striped ambulance passes, and a red-coated pedestrian crosses. A glass bus shelter stands, a blue mailbox stands, a wooden bench sits, and a green newsstand stands. A silver parking meter stands while a black traffic light stands.",
+    "n_objects": 18,
+    "category_counts": {
+      "pigeon": 1,
+      "ambulance": 1,
+      "pedestrian": 1,
+      "mail carrier": 1,
+      "car": 1,
+      "taxi": 1,
+      "city bus": 1,
+      "police car": 1,
+      "delivery van": 1,
+      "jogger": 1,
+      "fire engine": 1,
+      "traffic officer": 1,
+      "newsstand": 1,
+      "parking meter": 1,
+      "traffic light": 1,
+      "bus shelter": 1,
+      "mailbox": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n18_001",
+    "prompt": "Along a residential riverside path, two red-coated children run along the path, two white ducks paddle near the bank, two yellow motorboats move downriver, and two gray pigeons fly over the path. Two blue-shirted joggers run beside the river, two brown dogs trot ahead, two green route signs stand, and two blue recycling bins stand. At the same time, two concrete planters stand.",
+    "n_objects": 18,
+    "category_counts": {
+      "pigeon": 2,
+      "jogger": 2,
+      "dog": 2,
+      "child": 2,
+      "duck": 2,
+      "motorboat": 2,
+      "route sign": 2,
+      "recycling bin": 2,
+      "planter": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n18_002",
+    "prompt": "Outside a regional airport terminal, two silver airport buses drive across the apron, two white fuel trucks move toward a gate, two coat-wearing passengers cross the apron, and two green pushback tugs roll forward. Close by, two checkered airport operations cars patrol the apron, two white passenger airplanes taxi, two glass-sided jet bridges stand, and two black-and-yellow runway signs stand. Two silver light masts stand.",
+    "n_objects": 18,
+    "category_counts": {
+      "passenger": 2,
+      "pushback tug": 2,
+      "airport operations car": 2,
+      "passenger airplane": 2,
+      "airport bus": 2,
+      "fuel truck": 2,
+      "light mast": 2,
+      "jet bridge": 2,
+      "runway sign": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n18_003",
+    "prompt": "A chestnut horse canters, a red chicken pecks, three gray geese flap beside a country farm lane; a green tractor drives. A gray donkey ambles, five brown-and-white cows walk, three weathered barns stand, and two green wheelbarrows rest. A golden hay bale rests.",
+    "n_objects": 18,
+    "category_counts": {
+      "donkey": 1,
+      "cow": 5,
+      "horse": 1,
+      "chicken": 1,
+      "goose": 3,
+      "tractor": 1,
+      "wheelbarrow": 2,
+      "hay bale": 1,
+      "barn": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n17_001",
+    "prompt": "Seventeen students walk through a school hallway.",
+    "n_objects": 17,
+    "category_counts": {
+      "student": 17
+    }
+  },
+  {
+    "prompt_id": "easy_n17_002",
+    "prompt": "Near a chain-link fence on an empty public tennis court, seventeen yellow tennis balls lie scattered across the surface.",
+    "n_objects": 17,
+    "category_counts": {
+      "tennis ball": 17
+    }
+  },
+  {
+    "prompt_id": "easy_n17_003",
+    "prompt": "At a neighborhood bakery, twelve golden croissants move along a conveyor past five glass cake stands.",
+    "n_objects": 17,
+    "category_counts": {
+      "croissant": 12,
+      "cake stand": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n17_004",
+    "prompt": "Along an alpine trail, five eagles circle overhead, four climbers move across the rock face, and four rescue helicopters fly above the valley. Along the open area, four trail runners run downhill.",
+    "n_objects": 17,
+    "category_counts": {
+      "climber": 4,
+      "rescue helicopter": 4,
+      "trail runner": 4,
+      "eagle": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n17_001",
+    "prompt": "At a neighborhood recreation complex, a golden dog bounds, a blue kite drifts, a purple-clad dancer moves, and a green-uniformed groundskeeper walks. An orange-shirted jogger runs, a gray pigeon flies, a red-shirted park worker walks, and a red-shirted soccer player sprints. A white-clad tennis player runs, a blue-jacketed coach walks, a gray rabbit hops, and a yellow-jerseyed basketball player jogs. A silver drinking fountain stands, a blue equipment locker stands, an orange traffic cone stands, and a green picnic table stands. A wooden bench sits.",
+    "n_objects": 17,
+    "category_counts": {
+      "soccer player": 1,
+      "tennis player": 1,
+      "coach": 1,
+      "rabbit": 1,
+      "basketball player": 1,
+      "dog": 1,
+      "kite": 1,
+      "dancer": 1,
+      "groundskeeper": 1,
+      "jogger": 1,
+      "pigeon": 1,
+      "park worker": 1,
+      "bench": 1,
+      "drinking fountain": 1,
+      "equipment locker": 1,
+      "traffic cone": 1,
+      "picnic table": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n17_002",
+    "prompt": "On an urban construction site, a yellow excavator swings its arm while a blue bulldozer crawls over the soil and a red dump truck drives toward the gate. A white tower crane rotates above a striped concrete mixer whose drum turns beside a green-vested construction worker and orange-jacketed surveyor walking across the site. A gray forklift advances, a metal wheelbarrow rolls, a portable generator vibrates, and a silver inspection robot moves as a gray pigeon flies past a fluttering red warning flag. A yellow safety barrier separates a black tool chest, wide concrete pipe, and blue site sign from the moving equipment.",
+    "n_objects": 17,
+    "category_counts": {
+      "excavator": 1,
+      "bulldozer": 1,
+      "dump truck": 1,
+      "tower crane": 1,
+      "concrete mixer": 1,
+      "construction worker": 1,
+      "surveyor": 1,
+      "forklift": 1,
+      "wheelbarrow": 1,
+      "generator": 1,
+      "warning flag": 1,
+      "inspection robot": 1,
+      "pigeon": 1,
+      "safety barrier": 1,
+      "tool chest": 1,
+      "concrete pipe": 1,
+      "site sign": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n17_003",
+    "prompt": "At a lakeside recreation area, a striped kite drifts, a blue rowboat crosses, a silver fishing boat moves, and a gray heron flies. A red motorboat crosses, a white sailboat moves, a yellow-capped swimmer swims, and a brown duck paddles. A white swan glides, a green-clad jogger runs, a green-uniformed park ranger walks, and a golden dog bounds. A red life ring hangs, a steel dock ladder stands, a green information sign stands, and a white cooler rests. A wooden picnic table stands.",
+    "n_objects": 17,
+    "category_counts": {
+      "swimmer": 1,
+      "duck": 1,
+      "swan": 1,
+      "jogger": 1,
+      "park ranger": 1,
+      "dog": 1,
+      "kite": 1,
+      "rowboat": 1,
+      "fishing boat": 1,
+      "heron": 1,
+      "motorboat": 1,
+      "sailboat": 1,
+      "picnic table": 1,
+      "life ring": 1,
+      "dock ladder": 1,
+      "information sign": 1,
+      "cooler": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n17_004",
+    "prompt": "Across a weekend market square, a yellow taxi passes, a striped-shirted child skips, an orange-vested market cleaner moves, and a red-coated shopper walks. A striped-aproned vendor moves, a green-aproned fruit seller walks, a blue-shirted flower seller crosses, and a red-hatted square performer moves. A small brown dog trots, a gray pigeon flutters, a wooden handcart rolls, and a white delivery van moves. A green-canopied produce stall stands, a black chalkboard sign stands, a black lamp post stands, and a stone fountain stands. A wooden bench sits.",
+    "n_objects": 17,
+    "category_counts": {
+      "fruit seller": 1,
+      "flower seller": 1,
+      "square performer": 1,
+      "dog": 1,
+      "pigeon": 1,
+      "handcart": 1,
+      "delivery van": 1,
+      "taxi": 1,
+      "child": 1,
+      "market cleaner": 1,
+      "shopper": 1,
+      "vendor": 1,
+      "lamp post": 1,
+      "fountain": 1,
+      "bench": 1,
+      "produce stall": 1,
+      "chalkboard sign": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n17_001",
+    "prompt": "At an outdoor produce stall, a vendor in a blue apron arranges five glossy red apples, four speckled yellow pears, and three orange pumpkins beside two wicker baskets, a green scale, and a wooden crate.",
+    "n_objects": 17,
+    "category_counts": {
+      "apple": 5,
+      "pear": 4,
+      "pumpkin": 3,
+      "basket": 2,
+      "scale": 1,
+      "vendor": 1,
+      "crate": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n17_002",
+    "prompt": "Across a grassy farm paddock, two pink piglets scamper, two white sheep graze, two tan goats trot, and two black-and-white farm dogs run. Off to one side, two white ducks paddle, two green tractors drive, two galvanized water troughs stand, and two red feed bins sit. A weathered barn stands.",
+    "n_objects": 17,
+    "category_counts": {
+      "tractor": 2,
+      "piglet": 2,
+      "sheep": 2,
+      "goat": 2,
+      "farm dog": 2,
+      "duck": 2,
+      "barn": 1,
+      "water trough": 2,
+      "feed bin": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n17_003",
+    "prompt": "Across a grassy farm paddock, two black-and-white farm dogs run, two white ducks paddle, two blue-shirted farmers walk, and a dark-winged swallow circles. Farther along, two gray donkeys amble, two brown-and-white cows walk, two chestnut horses canter, and two red feed bins sit. Two galvanized water troughs stand.",
+    "n_objects": 17,
+    "category_counts": {
+      "farm dog": 2,
+      "duck": 2,
+      "farmer": 2,
+      "swallow": 1,
+      "donkey": 2,
+      "cow": 2,
+      "horse": 2,
+      "water trough": 2,
+      "feed bin": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n16_001",
+    "prompt": "Sixteen camels walk across a dry desert plain beneath a cloudless sky.",
+    "n_objects": 16,
+    "category_counts": {
+      "camel": 16
+    }
+  },
+  {
+    "prompt_id": "easy_n16_002",
+    "prompt": "Sixteen green wheeled trash bins roll through an automated washing lane in a suburban service area.",
+    "n_objects": 16,
+    "category_counts": {
+      "trash bin": 16
+    }
+  },
+  {
+    "prompt_id": "easy_n16_003",
+    "prompt": "A blue tram pulls into a covered stop as fifteen passengers move along the platform.",
+    "n_objects": 16,
+    "category_counts": {
+      "tram": 1,
+      "passenger": 15
+    }
+  },
+  {
+    "prompt_id": "easy_n16_004",
+    "prompt": "Along a riverside athletics ground, four dogs bound over the grass, four groundskeepers walk across the lawn, and four park workers walk along the promenade. A short distance away, four tennis players run along the baseline.",
+    "n_objects": 16,
+    "category_counts": {
+      "dog": 4,
+      "groundskeeper": 4,
+      "park worker": 4,
+      "tennis player": 4
+    }
+  },
+  {
+    "prompt_id": "hard_n16_001",
+    "prompt": "Outside a regional airport terminal, a red catering truck drives along the terminal as an orange-vested person walks and a coat-wearing person crosses the apron. A blue service van turns into the lane, a green pushback tug rolls forward, a black helicopter hovers, and a white airplane taxis. A blue-striped propeller airplane rolls toward the runway as a silver airport bus drives across the apron, a yellow baggage tractor crosses the service lane, and a white fuel truck moves toward a gate. Nearby are a gray equipment cabinet, striped windsock pole, glass-sided jet bridge, black-and-yellow runway sign, and silver light mast.",
+    "n_objects": 16,
+    "category_counts": {
+      "airplane": 2,
+      "airport bus": 1,
+      "baggage tractor": 1,
+      "fuel truck": 1,
+      "catering truck": 1,
+      "person": 2,
+      "service van": 1,
+      "pushback tug": 1,
+      "helicopter": 1,
+      "runway sign": 1,
+      "light mast": 1,
+      "equipment cabinet": 1,
+      "windsock pole": 1,
+      "jet bridge": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n16_002",
+    "prompt": "Along a mountain ski area, a brown-streaked sparrow hops, a brown reindeer runs, a white arctic fox bounds, and a black-and-white sled dog runs. A yellow snowmobile travels, a red snowcat climbs, a purple-coated child runs, and an orange-clad person walks. A green-jacketed person walks, a black raven flies, a white hare bounds, and a timber bench sits. A blue route map stands, a yellow trail sign stands, an orange snow fence stands, and a gray equipment locker stands.",
+    "n_objects": 16,
+    "category_counts": {
+      "sparrow": 1,
+      "reindeer": 1,
+      "arctic fox": 1,
+      "sled dog": 1,
+      "snowmobile": 1,
+      "snowcat": 1,
+      "person": 3,
+      "raven": 1,
+      "hare": 1,
+      "snow fence": 1,
+      "equipment locker": 1,
+      "bench": 1,
+      "route map": 1,
+      "trail sign": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n16_003",
+    "prompt": "A gray elephant walks across a savanna watering area as a spotted giraffe strides behind a striped zebra and a tan antelope. A dark buffalo trots, a black-and-white ostrich runs, a brown pig scampers, and a golden female lion moves through the grass; a sandy fox runs while a crested eagle and gray stork fly overhead. A green safari jeep drives past a khaki-clad person walking beside an acacia tree, stone water trough, and red route marker.",
+    "n_objects": 16,
+    "category_counts": {
+      "elephant": 1,
+      "giraffe": 1,
+      "zebra": 1,
+      "antelope": 1,
+      "buffalo": 1,
+      "ostrich": 1,
+      "pig": 1,
+      "lion": 1,
+      "fox": 1,
+      "eagle": 1,
+      "stork": 1,
+      "safari jeep": 1,
+      "person": 1,
+      "acacia tree": 1,
+      "water trough": 1,
+      "route marker": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n16_004",
+    "prompt": "Along a residential riverside path, an orange kite drifts above the lawn as a blue-shirted person runs beside the river. Two people in green jackets walk along the path, a red-coated child runs, and a brown dog trots ahead. A rust-colored red fox runs along the riverbank as a white duck paddles near the bank, a white swan glides across the water, and a yellow motorboat moves downriver. A silver delivery van drives along the street past a wooden picnic table, slatted bench, silver drinking fountain, blue recycling bin, and black lamp post.",
+    "n_objects": 16,
+    "category_counts": {
+      "kite": 1,
+      "person": 4,
+      "dog": 1,
+      "red fox": 1,
+      "duck": 1,
+      "swan": 1,
+      "motorboat": 1,
+      "delivery van": 1,
+      "bench": 1,
+      "drinking fountain": 1,
+      "recycling bin": 1,
+      "lamp post": 1,
+      "picnic table": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n16_001",
+    "prompt": "Outside a city transit terminal, two gray-coated passengers walk along the platform, two yellow-vested station cleaners walk through the concourse, and two blue trams glide past. Two green shuttle buses leave the curb, two white service cars cross the forecourt, and two silver commuter trains pull into the platform. Alongside them, two green waste bins sit while two red signal posts stand.",
+    "n_objects": 16,
+    "category_counts": {
+      "station cleaner": 2,
+      "tram": 2,
+      "shuttle bus": 2,
+      "service car": 2,
+      "commuter train": 2,
+      "passenger": 2,
+      "signal post": 2,
+      "waste bin": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n16_002",
+    "prompt": "Two white tour buses move along the road, two tan camels walk across the sand, and two black-and-white ostriches run across the plain in a desert recreation area. Two red off-road vehicles drive over the sand, two golden jackals trot across the sand, and two striped lizards scurry over rocks. Two folding camp chairs sit, and two canvas shade shelters stand.",
+    "n_objects": 16,
+    "category_counts": {
+      "off-road vehicle": 2,
+      "jackal": 2,
+      "lizard": 2,
+      "tour bus": 2,
+      "camel": 2,
+      "ostrich": 2,
+      "shade shelter": 2,
+      "camp chair": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n16_003",
+    "prompt": "Five yellow-jerseyed basketball players jog across the court at a riverside sports complex; two red-shirted soccer players sprint across the field, a blue-jacketed coach walks beside the track. A blue kite drifts above the field, two green-uniformed groundskeepers walk across the lawn, and a red-shirted park worker walks along the promenade. Two wooden benches sit, and two green picnic tables stand.",
+    "n_objects": 16,
+    "category_counts": {
+      "park worker": 1,
+      "soccer player": 2,
+      "coach": 1,
+      "basketball player": 5,
+      "kite": 1,
+      "groundskeeper": 2,
+      "picnic table": 2,
+      "bench": 2
+    }
+  },
+  {
+    "prompt_id": "diag_n15_001",
+    "prompt": "Across an urban transit square, one red car, one blue car, one white car, one black car, and one yellow car drive through the square while five blue city buses pull away and five red-coated pedestrians cross the street.",
+    "n_objects": 15,
+    "category_counts": {
+      "car": 5,
+      "city bus": 5,
+      "pedestrian": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n15_002",
+    "prompt": "Across an open pasture, one white horse, one black horse, one chestnut horse, one gray horse, and one tan horse trot across the grass while five black-and-white farm dogs run along the fence and five blue-shirted farmers walk across the field.",
+    "n_objects": 15,
+    "category_counts": {
+      "horse": 5,
+      "farm dog": 5,
+      "farmer": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n15_003",
+    "prompt": "Across an airport apron, one white service van, one blue van, one red van, one yellow van, and one green van drive toward the terminal while five orange-vested ground crew members walk across the apron and five yellow baggage tractors cross the service lane.",
+    "n_objects": 15,
+    "category_counts": {
+      "service van": 5,
+      "ground crew member": 5,
+      "baggage tractor": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n15_004",
+    "prompt": "At a working harbor, one red fishing boat, one blue fishing boat, one white fishing boat, one yellow fishing boat, and one green fishing boat cross the harbor while five orange-jacketed dockworkers walk along the quay and five white seagulls glide overhead.",
+    "n_objects": 15,
+    "category_counts": {
+      "fishing boat": 5,
+      "dockworker": 5,
+      "seagull": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n15_001",
+    "prompt": "On a bakery conveyor, twelve bagels and three loaves of bread move past the counter.",
+    "n_objects": 15,
+    "category_counts": {
+      "bagel": 12,
+      "loaf": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n15_002",
+    "prompt": "Near a marshy pond, fifteen mallard ducks paddle through the still water.",
+    "n_objects": 15,
+    "category_counts": {
+      "duck": 15
+    }
+  },
+  {
+    "prompt_id": "easy_n15_003",
+    "prompt": "Six white mountain goats scramble across an alpine slope as five tan deer trot over the rocks and four black ravens fly past the ridge.",
+    "n_objects": 15,
+    "category_counts": {
+      "mountain goat": 6,
+      "deer": 5,
+      "raven": 4
+    }
+  },
+  {
+    "prompt_id": "easy_n15_004",
+    "prompt": "Across an airport apron, five airport buses drive across the apron while five catering trucks drive along the terminal, and five service vans turn into the lane.",
+    "n_objects": 15,
+    "category_counts": {
+      "airport bus": 5,
+      "catering truck": 5,
+      "service van": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n15_001",
+    "prompt": "During a street festival, a gold-clad parade performer walks along the route, a striped-shirted child skips, a black-hatted festival performer sways to the music, and a black-and-white-clad mime walks through the square. A purple-coated stilt walker strides forward, a yellow-clad acrobat moves through the square, a brightly painted parade float rolls down the street, and an orange-vested parade marshal walks around the corner. A red-costumed dancer spins as a blue-jacketed parade marcher marches forward. Nearby are a green waste bin, blue information board, red banner, black speaker cabinet, and iron lamp post.",
+    "n_objects": 15,
+    "category_counts": {
+      "stilt walker": 1,
+      "acrobat": 1,
+      "parade float": 1,
+      "parade marshal": 1,
+      "dancer": 1,
+      "parade marcher": 1,
+      "parade performer": 1,
+      "child": 1,
+      "festival performer": 1,
+      "mime": 1,
+      "lamp post": 1,
+      "waste bin": 1,
+      "information board": 1,
+      "banner": 1,
+      "speaker cabinet": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n15_002",
+    "prompt": "A black-and-white farm dog runs, a red chicken pecks, a white duck paddles, and a dark-winged swallow circles on a grassy farm paddock. A pink piglet scampers, a gray donkey ambles, a white sheep grazes, and a brown-and-white cow walks. A tan goat trots, a chestnut horse canters, a galvanized water trough stands, and a golden hay bale rests. A wooden fence gate stands, a green wheelbarrow rests, and a painted farm sign stands.",
+    "n_objects": 15,
+    "category_counts": {
+      "swallow": 1,
+      "piglet": 1,
+      "donkey": 1,
+      "sheep": 1,
+      "cow": 1,
+      "goat": 1,
+      "horse": 1,
+      "farm dog": 1,
+      "chicken": 1,
+      "duck": 1,
+      "wheelbarrow": 1,
+      "farm sign": 1,
+      "water trough": 1,
+      "hay bale": 1,
+      "fence gate": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n15_003",
+    "prompt": "Along a wooded trail, a blue-jacketed hiker walks as an orange-shirted trail runner runs past a green-uniformed park ranger. A bronze wild turkey strides, a brown deer strides, a red fox trots, and a white rabbit hops through the grass. A gray squirrel scampers while a red-headed woodpecker flies, a brown owl glides, and a monarch butterfly flutters; a yellow maintenance cart moves past a wooden picnic table, painted trail sign, and wooden footbridge.",
+    "n_objects": 15,
+    "category_counts": {
+      "hiker": 1,
+      "trail runner": 1,
+      "park ranger": 1,
+      "wild turkey": 1,
+      "deer": 1,
+      "red fox": 1,
+      "rabbit": 1,
+      "squirrel": 1,
+      "woodpecker": 1,
+      "owl": 1,
+      "butterfly": 1,
+      "maintenance cart": 1,
+      "picnic table": 1,
+      "trail sign": 1,
+      "footbridge": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n15_004",
+    "prompt": "A dark-winged swallow circles, a pink piglet scampers, a gray donkey ambles, and a white sheep grazes on a grassy farm paddock. In the background, a black-and-white farm dog runs, a red chicken pecks, a white duck paddles, and a gray goose flaps. A blue-shirted farmer walks, a green tractor drives, a green wheelbarrow rests, and a painted farm sign stands. A galvanized water trough stands, a golden hay bale rests, and a weathered barn stands.",
+    "n_objects": 15,
+    "category_counts": {
+      "farm dog": 1,
+      "chicken": 1,
+      "duck": 1,
+      "goose": 1,
+      "farmer": 1,
+      "tractor": 1,
+      "swallow": 1,
+      "piglet": 1,
+      "donkey": 1,
+      "sheep": 1,
+      "barn": 1,
+      "wheelbarrow": 1,
+      "farm sign": 1,
+      "water trough": 1,
+      "hay bale": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n15_001",
+    "prompt": "Beside a wetland boardwalk, two white egrets fly above the marsh, two sleek otters dive below the surface, and two striped turtles crawl over logs. In another part of the scene, two red-shouldered red-winged blackbirds flutter among the reeds, two khaki-clad rangers walk along the boardwalk, and two red channel markers stand. Two wooden observation platforms stand while a weathered bench sits.",
+    "n_objects": 15,
+    "category_counts": {
+      "egret": 2,
+      "otter": 2,
+      "turtle": 2,
+      "red-winged blackbird": 2,
+      "ranger": 2,
+      "channel marker": 2,
+      "observation platform": 2,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n15_002",
+    "prompt": "Beside a wetland boardwalk, two blackbirds with red shoulder patches flutter among the reeds, a khaki-clad person walks along the boardwalk, and two speckled pigeons run along the mudflat. Two blue-gray herons wade in shallow water, two brown fish swim near the surface, and two green frogs hop along the bank. Around them, two blue information signs stand while two green nesting boxes stand.",
+    "n_objects": 15,
+    "category_counts": {
+      "blackbird": 2,
+      "person": 1,
+      "pigeon": 2,
+      "heron": 2,
+      "fish": 2,
+      "frog": 2,
+      "information sign": 2,
+      "nesting box": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n15_003",
+    "prompt": "Across a coastal marina, four red tugboats cross the channel, an orange-jacketed dockworker walks along the quay, and four silver harbor trucks drive beside the sheds. A white seagull glides overhead, two gray seals swim beside the pier, and an orange coastguard boat cuts through the harbor. At the same time, a steel net rack stands while a green storage shed stands.",
+    "n_objects": 15,
+    "category_counts": {
+      "dockworker": 1,
+      "harbor truck": 4,
+      "seagull": 1,
+      "seal": 2,
+      "coastguard boat": 1,
+      "tugboat": 4,
+      "storage shed": 1,
+      "net rack": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n14_001",
+    "prompt": "Fourteen runners circle an outdoor track.",
+    "n_objects": 14,
+    "category_counts": {
+      "runner": 14
+    }
+  },
+  {
+    "prompt_id": "easy_n14_002",
+    "prompt": "Fourteen swimmers move through an indoor pool.",
+    "n_objects": 14,
+    "category_counts": {
+      "swimmer": 14
+    }
+  },
+  {
+    "prompt_id": "easy_n14_003",
+    "prompt": "Fourteen seabirds fly above a rocky shoreline.",
+    "n_objects": 14,
+    "category_counts": {
+      "seabird": 14
+    }
+  },
+  {
+    "prompt_id": "easy_n14_004",
+    "prompt": "In a forest clearing, five wild turkeys stride across the trail while five deer walk through the ferns, and four woodpeckers fly between trees.",
+    "n_objects": 14,
+    "category_counts": {
+      "woodpecker": 4,
+      "wild turkey": 5,
+      "deer": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n14_001",
+    "prompt": "Across a desert recreation area, a white-robed desert walker crosses the sand, a chestnut horse canters along the track, a red off-road vehicle drives over the sand, and a sand-colored desert hare runs over the dune. A golden jackal trots across the sand, a brown hawk circles overhead, a striped lizard scurries over a rock, and a green-shirted hiker walks through the wash. Meanwhile, a white tour bus moves along the road, an orange hot-air balloon drifts above the ridge, a canvas shade shelter stands, and a silver water tank stands. A low stone wall stands while a wooden supply crate rests.",
+    "n_objects": 14,
+    "category_counts": {
+      "desert walker": 1,
+      "horse": 1,
+      "off-road vehicle": 1,
+      "desert hare": 1,
+      "jackal": 1,
+      "hawk": 1,
+      "lizard": 1,
+      "hiker": 1,
+      "tour bus": 1,
+      "hot-air balloon": 1,
+      "stone wall": 1,
+      "supply crate": 1,
+      "shade shelter": 1,
+      "water tank": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n14_002",
+    "prompt": "A gray rabbit hops between the rows, a gray donkey ambles along the fence, a yellow butterfly flutters around blossoms, and a straw-hatted harvest worker walks between the trees in a harvest farm. A blue-shirted farmer walks down the orchard row, a red chicken pecks near the lane, a white goose flaps across the orchard, and a white pickup truck moves along the track. A tan-jacketed orchard inspector walks past the gate, a dark-winged swallow circles above the trees, a white gate stands, and a straw-filled scarecrow stands. A green tool shed stands, and a woven harvest basket rests.",
+    "n_objects": 14,
+    "category_counts": {
+      "chicken": 1,
+      "goose": 1,
+      "pickup truck": 1,
+      "orchard inspector": 1,
+      "swallow": 1,
+      "rabbit": 1,
+      "donkey": 1,
+      "butterfly": 1,
+      "harvest worker": 1,
+      "farmer": 1,
+      "scarecrow": 1,
+      "tool shed": 1,
+      "harvest basket": 1,
+      "gate": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n14_003",
+    "prompt": "Outside a city transit terminal, a yellow maintenance vehicle travels down the service road, a silver commuter train pulls into the platform, a red freight locomotive passes the station, and a gray-coated passenger walks along the platform. A gray pigeon flutters above the tracks, a blue tram glides past, a white taxi turns through the forecourt, and a green shuttle bus leaves the curb. Farther along, an orange-clad rail worker walks beside the track, a white service car crosses the forecourt, a gray luggage locker stands, and a white platform sign hangs. A green waste bin sits while a blue ticket machine stands.",
+    "n_objects": 14,
+    "category_counts": {
+      "pigeon": 1,
+      "tram": 1,
+      "taxi": 1,
+      "shuttle bus": 1,
+      "rail worker": 1,
+      "service car": 1,
+      "maintenance vehicle": 1,
+      "commuter train": 1,
+      "freight locomotive": 1,
+      "passenger": 1,
+      "luggage locker": 1,
+      "platform sign": 1,
+      "waste bin": 1,
+      "ticket machine": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n14_004",
+    "prompt": "A red chicken pecks near the lane, a white goose flaps across the orchard, a white pickup truck moves along the track in a harvest farm; a tan-jacketed orchard inspector walks past the gate. In the background, a dark-winged swallow circles above the trees, a gray rabbit hops between the rows, a gray donkey ambles along the fence, and a yellow butterfly flutters around blossoms. A straw-hatted harvest worker walks between the trees, a tan deer walks across the grass, a silver irrigation tank stands, and a white gate stands. A wooden orchard ladder stands, and a red fruit crate rests.",
+    "n_objects": 14,
+    "category_counts": {
+      "deer": 1,
+      "chicken": 1,
+      "goose": 1,
+      "pickup truck": 1,
+      "orchard inspector": 1,
+      "swallow": 1,
+      "rabbit": 1,
+      "donkey": 1,
+      "butterfly": 1,
+      "harvest worker": 1,
+      "gate": 1,
+      "orchard ladder": 1,
+      "fruit crate": 1,
+      "irrigation tank": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n14_001",
+    "prompt": "Two yellow-jacketed teachers walk beside the track, two green-uniformed school custodians cross the yard, and two blue-shirted students run across the field on school grounds. Two white-jerseyed basketball players jog toward the court, two gray rabbits hop across the grass, and two black scoreboards stand. Two blue benches sit.",
+    "n_objects": 14,
+    "category_counts": {
+      "student": 2,
+      "basketball player": 2,
+      "rabbit": 2,
+      "teacher": 2,
+      "school custodian": 2,
+      "scoreboard": 2,
+      "bench": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n14_002",
+    "prompt": "Along a fishing port quay, two silver harbor trucks drive beside the sheds, two white seagulls glide overhead, and two blue fishing boats head toward the pier. Elsewhere in view, two white sailboats move under sail, two orange-jacketed dockworkers walk along the quay, and two blue fish crates rest. Two green storage sheds stand.",
+    "n_objects": 14,
+    "category_counts": {
+      "fishing boat": 2,
+      "sailboat": 2,
+      "dockworker": 2,
+      "harbor truck": 2,
+      "seagull": 2,
+      "fish crate": 2,
+      "storage shed": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n14_003",
+    "prompt": "Two chestnut horses canter along the track, a striped lizard scurries over a rock, and a white tour bus moves along the road in a desert recreation area. Five tan camels walk across the sand, a black-and-white ostrich runs across the plain, and a canvas shade shelter stands. Nearby, three brown information boards stand.",
+    "n_objects": 14,
+    "category_counts": {
+      "lizard": 1,
+      "tour bus": 1,
+      "camel": 5,
+      "ostrich": 1,
+      "horse": 2,
+      "information board": 3,
+      "shade shelter": 1
+    }
+  },
+  {
+    "prompt_id": "diag_n13_001",
+    "prompt": "Across an urban transit square, one red car, one blue car, one white car, one black car, and one yellow car drive through the square while four blue city buses pull away and four red-coated pedestrians cross the street.",
+    "n_objects": 13,
+    "category_counts": {
+      "car": 5,
+      "city bus": 4,
+      "pedestrian": 4
+    }
+  },
+  {
+    "prompt_id": "diag_n13_002",
+    "prompt": "Across an open pasture, one white horse, one black horse, one chestnut horse, one gray horse, and one tan horse trot across the grass while four black-and-white farm dogs run along the fence and four blue-shirted farmers walk across the field.",
+    "n_objects": 13,
+    "category_counts": {
+      "horse": 5,
+      "farm dog": 4,
+      "farmer": 4
+    }
+  },
+  {
+    "prompt_id": "diag_n13_003",
+    "prompt": "Across an airport apron, one white service van, one blue van, one red van, one yellow van, and one green van drive toward the terminal while four orange-vested ground crew members walk across the apron and four yellow baggage tractors cross the service lane.",
+    "n_objects": 13,
+    "category_counts": {
+      "service van": 5,
+      "ground crew member": 4,
+      "baggage tractor": 4
+    }
+  },
+  {
+    "prompt_id": "diag_n13_004",
+    "prompt": "At a working harbor, five red tugboats cross the channel while four white sailboats move under sail and four gray seagulls glide overhead.",
+    "n_objects": 13,
+    "category_counts": {
+      "tugboat": 5,
+      "sailboat": 4,
+      "seagull": 4
+    }
+  },
+  {
+    "prompt_id": "easy_n13_001",
+    "prompt": "At an alpine campsite beneath a rocky slope, thirteen small dome tents ripple in the wind across the meadow.",
+    "n_objects": 13,
+    "category_counts": {
+      "tent": 13
+    }
+  },
+  {
+    "prompt_id": "easy_n13_002",
+    "prompt": "Along a suburban train platform, five pigeons flutter above the tracks while four shuttle buses leave the curb, and four conductors pace along the platform.",
+    "n_objects": 13,
+    "category_counts": {
+      "conductor": 4,
+      "pigeon": 5,
+      "shuttle bus": 4
+    }
+  },
+  {
+    "prompt_id": "easy_n13_003",
+    "prompt": "Inside an airport maintenance hangar, thirteen blue baggage carts roll in a line across the concrete floor.",
+    "n_objects": 13,
+    "category_counts": {
+      "baggage cart": 13
+    }
+  },
+  {
+    "prompt_id": "easy_n13_004",
+    "prompt": "Five harvest workers walk between fruit trees; four farm dogs run beside them, and four geese flap across the orchard.",
+    "n_objects": 13,
+    "category_counts": {
+      "harvest worker": 5,
+      "farm dog": 4,
+      "goose": 4
+    }
+  },
+  {
+    "prompt_id": "hard_n13_001",
+    "prompt": "Beside a wetland boardwalk, a brown fish swims near the surface, a sleek otter dives below the surface, a green frog hops along the bank, and a khaki-clad person walks along the boardwalk. A gray goose flaps across the pond, a speckled pigeon runs along the mudflat, a green-headed duck paddles through the reeds, and a blue-gray duck wades in shallow water. Meanwhile, a white swan flies above the marsh, a weathered bench sits, a wooden observation platform stands, and a green nesting box stands. A striped water gauge stands.",
+    "n_objects": 13,
+    "category_counts": {
+      "person": 1,
+      "goose": 1,
+      "pigeon": 1,
+      "duck": 2,
+      "swan": 1,
+      "fish": 1,
+      "otter": 1,
+      "frog": 1,
+      "observation platform": 1,
+      "nesting box": 1,
+      "water gauge": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n13_002",
+    "prompt": "A gray pigeon flaps across the yard, two green-uniformed people cross the playing field, a yellow school bus pulls away, and a blue-shirted person runs across the field on school grounds. A red-jerseyed person sprints along the touchline, a white-jerseyed person jogs toward the court, and a purple-clad person circles the track. A diamond-shaped kite drifts overhead, a black scoreboard stands, a steel bicycle rack stands, and a white goalpost stands. A blue bench sits.",
+    "n_objects": 13,
+    "category_counts": {
+      "person": 6,
+      "kite": 1,
+      "pigeon": 1,
+      "school bus": 1,
+      "scoreboard": 1,
+      "bicycle rack": 1,
+      "goalpost": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n13_003",
+    "prompt": "A yellow bulldozer moves over the soil in an urban building site; a black-and-yellow wheel loader carries soil forward, a silver utility vehicle drives past, a red dump truck drives along the haul road. An orange forklift rolls through the yard, a white concrete mixer truck turns into the site, a blue crane rotates above the structure, and a green road roller travels across the gravel. A yellow-jacketed surveyor walks along the service path, a red safety barrier stands, a white site office stands, and a wooden material pallet rests. A gray tool cabinet stands.",
+    "n_objects": 13,
+    "category_counts": {
+      "dump truck": 1,
+      "bulldozer": 1,
+      "forklift": 1,
+      "concrete mixer truck": 1,
+      "crane": 1,
+      "road roller": 1,
+      "surveyor": 1,
+      "wheel loader": 1,
+      "utility vehicle": 1,
+      "safety barrier": 1,
+      "site office": 1,
+      "material pallet": 1,
+      "tool cabinet": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n13_004",
+    "prompt": "A white concrete mixer truck turns into the site, a blue crane rotates above the structure, a blue-helmeted mason crosses the work area, and a white water truck moves down the access road in an urban building site. An orange-vested site engineer walks across the site, a yellow excavator swings its boom, a red dump truck drives along the haul road, and a yellow bulldozer moves over the soil. An orange forklift rolls through the yard, a white site office stands, a wooden material pallet rests, and a gray tool cabinet stands. In the background, a yellow warning sign stands.",
+    "n_objects": 13,
+    "category_counts": {
+      "mason": 1,
+      "water truck": 1,
+      "site engineer": 1,
+      "excavator": 1,
+      "dump truck": 1,
+      "bulldozer": 1,
+      "forklift": 1,
+      "concrete mixer truck": 1,
+      "crane": 1,
+      "site office": 1,
+      "material pallet": 1,
+      "tool cabinet": 1,
+      "warning sign": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n13_001",
+    "prompt": "At a city intersection, a blue city bus pulls away, two yellow-vested traffic officers cross the street, and two gray pigeons fly overhead. Two red-coated pedestrians cross the street, two silver cars turn through the junction, and two green newsstands stand. Nearby, two glass bus shelters stand.",
+    "n_objects": 13,
+    "category_counts": {
+      "traffic officer": 2,
+      "pigeon": 2,
+      "pedestrian": 2,
+      "car": 2,
+      "city bus": 1,
+      "newsstand": 2,
+      "bus shelter": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n13_002",
+    "prompt": "At a city intersection, two yellow taxis drive past, two red fire engines pass the intersection, and two compact street sweepers travel along the gutter. Within the same setting, two red-striped ambulances pass the junction, two blue-uniformed mail carriers walk along the sidewalk, and two black traffic lights stand. Nearby, a wooden bench sits.",
+    "n_objects": 13,
+    "category_counts": {
+      "fire engine": 2,
+      "street sweeper": 2,
+      "ambulance": 2,
+      "mail carrier": 2,
+      "taxi": 2,
+      "traffic light": 2,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n13_003",
+    "prompt": "A blue crane rotates above the structure, two yellow-jacketed surveyors walk along the service path, and a silver utility vehicle drives past at a roadwork staging area. Four red dump trucks drive along the haul road, an orange forklift rolls through the yard, and two yellow warning signs stand. Two red safety barriers stand.",
+    "n_objects": 13,
+    "category_counts": {
+      "dump truck": 4,
+      "forklift": 1,
+      "crane": 1,
+      "surveyor": 2,
+      "utility vehicle": 1,
+      "warning sign": 2,
+      "safety barrier": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n12_001",
+    "prompt": "Twelve dancers move across a community hall.",
+    "n_objects": 12,
+    "category_counts": {
+      "dancer": 12
+    }
+  },
+  {
+    "prompt_id": "easy_n12_002",
+    "prompt": "At a construction site, four road rollers travel across the gravel while four utility vehicles drive past, and four site engineers walk across the site.",
+    "n_objects": 12,
+    "category_counts": {
+      "road roller": 4,
+      "utility vehicle": 4,
+      "site engineer": 4
+    }
+  },
+  {
+    "prompt_id": "easy_n12_003",
+    "prompt": "Twelve butterflies flutter through a wildflower meadow.",
+    "n_objects": 12,
+    "category_counts": {
+      "butterfly": 12
+    }
+  },
+  {
+    "prompt_id": "easy_n12_004",
+    "prompt": "At a snow-covered trailhead, two wooden sleds glide over the snow carrying four red snowshoes and six black ski poles.",
+    "n_objects": 12,
+    "category_counts": {
+      "sled": 2,
+      "snowshoe": 4,
+      "ski pole": 6
+    }
+  },
+  {
+    "prompt_id": "hard_n12_001",
+    "prompt": "A gray pigeon flaps across the yard, a green-uniformed groundskeeper crosses the playing field, a yellow school bus pulls away, and a blue-shirted student runs across the field on school grounds. A red-jerseyed soccer player sprints along the touchline, a white-jerseyed basketball player jogs toward the court, an orange-vested crossing guard walks beside the field, and a gray rabbit hops across the grass. A steel bicycle rack stands, a white goalpost stands, a blue bench sits, and a red backpack rests.",
+    "n_objects": 12,
+    "category_counts": {
+      "pigeon": 1,
+      "groundskeeper": 1,
+      "school bus": 1,
+      "student": 1,
+      "soccer player": 1,
+      "basketball player": 1,
+      "crossing guard": 1,
+      "rabbit": 1,
+      "bicycle rack": 1,
+      "goalpost": 1,
+      "bench": 1,
+      "backpack": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n12_002",
+    "prompt": "A red-jerseyed soccer player sprints along the touchline on school grounds; a green-uniformed groundskeeper crosses the playing field, a yellow school bus pulls away, a blue-shirted student runs across the field. A white-jerseyed basketball player jogs toward the court, an orange-vested crossing guard walks beside the field, a gray rabbit hops across the grass, and a brown dog races across the grass. A silver water fountain stands, an orange traffic cone stands, a black scoreboard stands, and a steel bicycle rack stands.",
+    "n_objects": 12,
+    "category_counts": {
+      "groundskeeper": 1,
+      "school bus": 1,
+      "student": 1,
+      "soccer player": 1,
+      "basketball player": 1,
+      "crossing guard": 1,
+      "rabbit": 1,
+      "dog": 1,
+      "water fountain": 1,
+      "traffic cone": 1,
+      "scoreboard": 1,
+      "bicycle rack": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n12_003",
+    "prompt": "Along a fishing port quay, a blue fishing boat heads toward the pier, a red tugboat crosses the channel, a white sailboat moves under sail, and a yellow speedboat crosses the harbor. Toward the center, an orange-jacketed dockworker walks along the quay, a blue-coated fisher walks down the pier, a silver harbor truck drives beside the sheds, and an orange coastguard boat cuts through the harbor. A green storage shed stands, a yellow fuel pump stands, a black mooring bollard stands, and a red lifebuoy hangs.",
+    "n_objects": 12,
+    "category_counts": {
+      "coastguard boat": 1,
+      "fishing boat": 1,
+      "tugboat": 1,
+      "sailboat": 1,
+      "speedboat": 1,
+      "dockworker": 1,
+      "fisher": 1,
+      "harbor truck": 1,
+      "lifebuoy": 1,
+      "storage shed": 1,
+      "fuel pump": 1,
+      "mooring bollard": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n12_004",
+    "prompt": "On a road through an alpine village, a blue shuttle bus drives through the village, a white delivery van turns into the square, a tan goat trots beside the wall, and a black dog runs across the lane. A chestnut horse walks past the houses, a green tractor moves down the road, a red-coated villager walks along the road, and a blue-coated mail carrier walks uphill. Alongside them, a carved stone fountain stands, a painted village sign stands, a glass bus shelter stands, and a stone flower planter stands.",
+    "n_objects": 12,
+    "category_counts": {
+      "villager": 1,
+      "mail carrier": 1,
+      "shuttle bus": 1,
+      "delivery van": 1,
+      "goat": 1,
+      "dog": 1,
+      "horse": 1,
+      "tractor": 1,
+      "bus shelter": 1,
+      "flower planter": 1,
+      "stone fountain": 1,
+      "village sign": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n12_001",
+    "prompt": "At a neighborhood recreation complex, two green-uniformed groundskeepers walk across the lawn, two gray pigeons fly over the court, and two yellow-jerseyed basketball players jog across the court. Along the open area, two blue kites drift above the field, two silver drinking fountains stand, and two green picnic tables stand.",
+    "n_objects": 12,
+    "category_counts": {
+      "basketball player": 2,
+      "kite": 2,
+      "groundskeeper": 2,
+      "pigeon": 2,
+      "drinking fountain": 2,
+      "picnic table": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n12_002",
+    "prompt": "Two brown ducks paddle along the reeds, two green-clad joggers run along the path, and two golden dogs bound over the grass at a lakeside recreation area. Meanwhile, two blue rowboats cross the cove, two red life rings hang, and two white coolers rest.",
+    "n_objects": 12,
+    "category_counts": {
+      "duck": 2,
+      "jogger": 2,
+      "dog": 2,
+      "rowboat": 2,
+      "life ring": 2,
+      "cooler": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n12_003",
+    "prompt": "Four brown ducks swim near three white swans as two red kayaks, two yellow buoys, and a green canoe drift across an open lake.",
+    "n_objects": 12,
+    "category_counts": {
+      "duck": 4,
+      "swan": 3,
+      "kayak": 2,
+      "buoy": 2,
+      "canoe": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n11_001",
+    "prompt": "Outside an airport terminal entrance, eleven wheeled luggage carts roll through an automated return lane.",
+    "n_objects": 11,
+    "category_counts": {
+      "luggage cart": 11
+    }
+  },
+  {
+    "prompt_id": "easy_n11_002",
+    "prompt": "At an outdoor fruit packing table, nine red apples roll toward two wicker baskets.",
+    "n_objects": 11,
+    "category_counts": {
+      "apple": 9,
+      "basket": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n11_003",
+    "prompt": "In a bicycle repair workshop, eleven black bicycle wheels spin slowly on hooks beneath a long workbench.",
+    "n_objects": 11,
+    "category_counts": {
+      "wheel": 11
+    }
+  },
+  {
+    "prompt_id": "easy_n11_004",
+    "prompt": "Along a school sports ground, four runners circle the track while four soccer players sprint along the touchline, and three rabbits hop across the grass.",
+    "n_objects": 11,
+    "category_counts": {
+      "soccer player": 4,
+      "rabbit": 3,
+      "runner": 4
+    }
+  },
+  {
+    "prompt_id": "hard_n11_001",
+    "prompt": "A yellow-vested inventory worker moves between shelves at a busy freight terminal; a yellow forklift drives between the racks, a black-jacketed courier crosses the dispatch floor, an orange-shirted person walks toward the loading bay. A blue service van drives past the dock, a black conveyor belt runs through the sorting area, a silver sorting robot turns within the sorting area, and a blue-uniformed warehouse worker walks along the aisle. At the same time, a steel storage rack stands, a white packing table stands, and a red fire extinguisher hangs.",
+    "n_objects": 11,
+    "category_counts": {
+      "courier": 1,
+      "person": 1,
+      "inventory worker": 1,
+      "service van": 1,
+      "conveyor belt": 1,
+      "sorting robot": 1,
+      "warehouse worker": 1,
+      "forklift": 1,
+      "packing table": 1,
+      "fire extinguisher": 1,
+      "storage rack": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n11_002",
+    "prompt": "At a city intersection, a red-striped ambulance passes the junction, a red-coated pedestrian crosses the street, a blue-uniformed mail carrier walks along the sidewalk, and an orange-shirted jogger runs. A red fire engine passes the intersection, a yellow-vested traffic officer crosses the street, a compact street sweeper travels along the gutter, and a gray pigeon flies overhead. Close by, a wooden bench sits, a yellow bollard stands, and a green newsstand stands.",
+    "n_objects": 11,
+    "category_counts": {
+      "jogger": 1,
+      "fire engine": 1,
+      "traffic officer": 1,
+      "street sweeper": 1,
+      "pigeon": 1,
+      "ambulance": 1,
+      "pedestrian": 1,
+      "mail carrier": 1,
+      "bench": 1,
+      "bollard": 1,
+      "newsstand": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n11_003",
+    "prompt": "At a city intersection, a red-coated pedestrian crosses the street, a blue-uniformed mail carrier walks along the sidewalk, a silver car turns through the junction, and a red fire engine passes the intersection. A yellow-vested traffic officer crosses the street, a compact street sweeper travels along the gutter, a gray pigeon flies overhead, and a red-striped ambulance passes the junction. Within view, a black traffic light stands, a glass bus shelter stands, and a blue mailbox stands.",
+    "n_objects": 11,
+    "category_counts": {
+      "fire engine": 1,
+      "traffic officer": 1,
+      "street sweeper": 1,
+      "pigeon": 1,
+      "ambulance": 1,
+      "pedestrian": 1,
+      "mail carrier": 1,
+      "car": 1,
+      "traffic light": 1,
+      "bus shelter": 1,
+      "mailbox": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n11_004",
+    "prompt": "Across a high mountain meadow, a white mountain goat scrambles over rocks, a brown marmot scurries across the slope, a woolly sheep grazes on the slope, and a gray dog trots beside the path. A red rescue helicopter flies above the valley, a blue butterfly flutters over alpine flowers, a red-jacketed hiker climbs the path, and a blue-shirted trail runner runs downhill. In another part of the scene, a wooden trail shelter stands, a weathered backpack rests, and a stacked stone cairn stands.",
+    "n_objects": 11,
+    "category_counts": {
+      "sheep": 1,
+      "dog": 1,
+      "rescue helicopter": 1,
+      "butterfly": 1,
+      "hiker": 1,
+      "trail runner": 1,
+      "mountain goat": 1,
+      "marmot": 1,
+      "stone cairn": 1,
+      "trail shelter": 1,
+      "backpack": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n11_001",
+    "prompt": "Six white-and-blue buses pull into a city terminal as two passengers in dark coats walk past a black rolling suitcase, a yellow ticket machine, and a gray metal bench.",
+    "n_objects": 11,
+    "category_counts": {
+      "bus": 6,
+      "passenger": 2,
+      "suitcase": 1,
+      "ticket machine": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n11_002",
+    "prompt": "Three blue-shirted joggers run through a city plaza while two helmeted cyclists pedal two silver bicycles beside two golden dogs. A red tram glides past as a compact street sweeper moves along the curb.",
+    "n_objects": 11,
+    "category_counts": {
+      "jogger": 3,
+      "cyclist": 2,
+      "bicycle": 2,
+      "dog": 2,
+      "tram": 1,
+      "street sweeper": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n11_003",
+    "prompt": "Outside a regional airport terminal, two white gulls fly above the terminal, a white fuel truck moves toward a gate, and two orange-vested ground crew members walk. Two blue service vans turn into the lane, two black helicopters hover, and two mobile boarding stairs stand.",
+    "n_objects": 11,
+    "category_counts": {
+      "fuel truck": 1,
+      "ground crew member": 2,
+      "service van": 2,
+      "helicopter": 2,
+      "gull": 2,
+      "boarding stair": 2
+    }
+  },
+  {
+    "prompt_id": "diag_n10_001",
+    "prompt": "Across an open public plaza, ten people walk separately: one in a red jacket, one in a blue jacket, one in a white jacket, one in a black jacket, one in a yellow jacket, one in a green jacket, one in an orange jacket, one in a purple jacket, one in a gray jacket, and one in a brown jacket.",
+    "n_objects": 10,
+    "category_counts": {
+      "person": 10
+    }
+  },
+  {
+    "prompt_id": "diag_n10_002",
+    "prompt": "Along a wide city street, ten cars drive forward in separate lanes: one red, one blue, one white, one black, one yellow, one green, one orange, one purple, one gray, and one brown.",
+    "n_objects": 10,
+    "category_counts": {
+      "car": 10
+    }
+  },
+  {
+    "prompt_id": "diag_n10_003",
+    "prompt": "Across an urban transit square, one red car, one blue car, one white car, one black car, and one yellow car drive through the square while five gray-coated pedestrians walk along the sidewalk.",
+    "n_objects": 10,
+    "category_counts": {
+      "car": 5,
+      "pedestrian": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n10_004",
+    "prompt": "Across an open pasture, one white horse, one black horse, one chestnut horse, one gray horse, and one tan horse trot across the grass while five black-and-white farm dogs run along the fence.",
+    "n_objects": 10,
+    "category_counts": {
+      "horse": 5,
+      "farm dog": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n10_001",
+    "prompt": "Five couriers cross a logistics depot as five service vans drive past the dock.",
+    "n_objects": 10,
+    "category_counts": {
+      "courier": 5,
+      "service van": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n10_002",
+    "prompt": "Ten wooden sleds slide down a snowy slope beside a lodge in a village square.",
+    "n_objects": 10,
+    "category_counts": {
+      "sled": 10
+    }
+  },
+  {
+    "prompt_id": "easy_n10_003",
+    "prompt": "Ten yellow tulips sway in a botanical garden flowerbed beside a gravel path.",
+    "n_objects": 10,
+    "category_counts": {
+      "tulip": 10
+    }
+  },
+  {
+    "prompt_id": "easy_n10_004",
+    "prompt": "Across an urban transit square, five fire engines pass the intersection while five pigeons fly overhead.",
+    "n_objects": 10,
+    "category_counts": {
+      "fire engine": 5,
+      "pigeon": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n10_001",
+    "prompt": "At a neighborhood recreation complex, a blue-jacketed coach walks beside the track, a gray rabbit hops across the lawn, a yellow-jerseyed basketball player jogs across the court, and a golden dog bounds over the grass. Meanwhile, a blue-jerseyed runner circles the track, a red-shirted soccer player sprints across the field, a white-clad tennis player runs along the baseline, and an orange traffic cone stands. A silver drinking fountain stands while a blue equipment locker stands.",
+    "n_objects": 10,
+    "category_counts": {
+      "runner": 1,
+      "soccer player": 1,
+      "tennis player": 1,
+      "coach": 1,
+      "rabbit": 1,
+      "basketball player": 1,
+      "dog": 1,
+      "drinking fountain": 1,
+      "equipment locker": 1,
+      "traffic cone": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n10_002",
+    "prompt": "A white swan glides toward the inlet, a green-clad jogger runs along the path, a green-uniformed park ranger walks beside the lake at a lakeside recreation area; a white sailboat moves across the water. A blue canoe glides near the shore, a yellow-capped swimmer swims past the dock, a brown duck paddles along the reeds, and a white cooler rests. A slatted bench sits, and a metal boat rack stands.",
+    "n_objects": 10,
+    "category_counts": {
+      "sailboat": 1,
+      "canoe": 1,
+      "swimmer": 1,
+      "duck": 1,
+      "swan": 1,
+      "jogger": 1,
+      "park ranger": 1,
+      "cooler": 1,
+      "bench": 1,
+      "boat rack": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n10_003",
+    "prompt": "Across a weekend market square, a gray pigeon flutters over the square, a wooden handcart rolls down the aisle, a brown-aproned market porter walks down the aisle, and a green-aproned fruit seller walks down the produce aisle. A blue-shirted flower seller crosses the aisle, a red-hatted square performer moves through the square, a small brown dog trots beside the stalls, and a wooden bench sits. Off to one side, a green-canopied produce stall stands while a stone fountain stands.",
+    "n_objects": 10,
+    "category_counts": {
+      "market porter": 1,
+      "fruit seller": 1,
+      "flower seller": 1,
+      "square performer": 1,
+      "dog": 1,
+      "pigeon": 1,
+      "handcart": 1,
+      "fountain": 1,
+      "bench": 1,
+      "produce stall": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n10_004",
+    "prompt": "A white swan glides toward the inlet at a lakeside recreation area; a striped kite drifts above the shore, a blue rowboat crosses the cove, a silver fishing boat moves toward the pier. A green-clad jogger runs along the path, a green-uniformed park ranger walks beside the lake, a golden dog bounds over the grass, and a white cooler rests. A slatted bench sits, and a metal boat rack stands.",
+    "n_objects": 10,
+    "category_counts": {
+      "swan": 1,
+      "jogger": 1,
+      "park ranger": 1,
+      "dog": 1,
+      "kite": 1,
+      "rowboat": 1,
+      "fishing boat": 1,
+      "cooler": 1,
+      "bench": 1,
+      "boat rack": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n10_001",
+    "prompt": "Across a wooded park path, two black-and-white badgers shuffle through leaves, two brown deer walk through the ferns, and two gray squirrels scamper across logs. A short distance away, two orange butterflies flutter above the flowers while two cedar benches sit.",
+    "n_objects": 10,
+    "category_counts": {
+      "butterfly": 2,
+      "badger": 2,
+      "deer": 2,
+      "squirrel": 2,
+      "bench": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n10_002",
+    "prompt": "During a street festival, two orange-vested parade marshals walk around the corner, two blue-jacketed parade marchers march forward, and two striped-shirted children skip along the festival route. Nearby, two yellow-clad acrobats move through the square while two striped ticket booths stand.",
+    "n_objects": 10,
+    "category_counts": {
+      "acrobat": 2,
+      "parade marshal": 2,
+      "parade marcher": 2,
+      "child": 2,
+      "ticket booth": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n10_003",
+    "prompt": "Three white swans glide toward the inlet at a lakeside recreation area; a white sailboat moves across the water, four yellow-capped swimmers swim past the dock. A white cooler rests, and a wooden picnic table stands.",
+    "n_objects": 10,
+    "category_counts": {
+      "sailboat": 1,
+      "swimmer": 4,
+      "swan": 3,
+      "cooler": 1,
+      "picnic table": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n09_001",
+    "prompt": "Nine construction workers walk across a building site.",
+    "n_objects": 9,
+    "category_counts": {
+      "construction worker": 9
+    }
+  },
+  {
+    "prompt_id": "easy_n09_002",
+    "prompt": "Near a rocky tide pool at low tide, nine small shore crabs scuttle over the wet stones.",
+    "n_objects": 9,
+    "category_counts": {
+      "crab": 9
+    }
+  },
+  {
+    "prompt_id": "easy_n09_003",
+    "prompt": "In a fenced farmyard with packed earth, nine brown hens peck at grain.",
+    "n_objects": 9,
+    "category_counts": {
+      "hen": 9
+    }
+  },
+  {
+    "prompt_id": "easy_n09_004",
+    "prompt": "Nine dusty jeeps drive along a desert road between red sandstone cliffs.",
+    "n_objects": 9,
+    "category_counts": {
+      "jeep": 9
+    }
+  },
+  {
+    "prompt_id": "hard_n09_001",
+    "prompt": "A white airplane taxis outside a regional airport terminal; a black helicopter hovers, a checkered airport operations car patrols the apron, a white gull flies above the terminal. A blue-striped propeller airplane rolls toward the runway, a green pushback tug rolls forward, a striped windsock pole stands, and a glass-sided jet bridge stands. A gray equipment cabinet sits.",
+    "n_objects": 9,
+    "category_counts": {
+      "pushback tug": 1,
+      "helicopter": 1,
+      "airport operations car": 1,
+      "gull": 1,
+      "airplane": 2,
+      "equipment cabinet": 1,
+      "windsock pole": 1,
+      "jet bridge": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n09_002",
+    "prompt": "Along a residential riverside path, a rust-colored red fox runs along the riverbank, a white duck paddles near the bank, a white swan glides across the water, and a brown dog trots ahead. Toward the center, a green-jacketed park ranger walks along the path, a red-coated child runs along the path, a silver drinking fountain stands, and a blue recycling bin stands. A black lamp post stands.",
+    "n_objects": 9,
+    "category_counts": {
+      "dog": 1,
+      "park ranger": 1,
+      "child": 1,
+      "red fox": 1,
+      "duck": 1,
+      "swan": 1,
+      "drinking fountain": 1,
+      "recycling bin": 1,
+      "lamp post": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n09_003",
+    "prompt": "On an airport apron, a white passenger jet taxis as a marshaller in an orange safety vest signals. A yellow pushback tug rolls past a blue baggage cart, while a silver fuel truck and red airport shuttle move beneath a striped windsock. A green deicing truck and white service van cross the apron.",
+    "n_objects": 9,
+    "category_counts": {
+      "passenger jet": 1,
+      "marshaller": 1,
+      "pushback tug": 1,
+      "baggage cart": 1,
+      "fuel truck": 1,
+      "airport shuttle": 1,
+      "windsock": 1,
+      "deicing truck": 1,
+      "service van": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n09_004",
+    "prompt": "Outside a regional airport terminal, a checkered airport operations car patrols the apron, a white gull flies above the terminal, a white airplane taxis, and a blue-striped propeller airplane rolls toward the runway. A silver airport bus drives across the apron, a black helicopter hovers, a silver light mast stands, and a gray equipment cabinet sits. Alongside them, a black-and-yellow runway sign stands.",
+    "n_objects": 9,
+    "category_counts": {
+      "helicopter": 1,
+      "airport operations car": 1,
+      "gull": 1,
+      "airplane": 2,
+      "airport bus": 1,
+      "runway sign": 1,
+      "light mast": 1,
+      "equipment cabinet": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n09_001",
+    "prompt": "Across a harvest farm, two tan deer walk across the grass, two gray donkeys amble along the fence, and two straw-hatted harvest workers walk between the trees. A short distance away, a green tractor drives down the row while two red fruit crates rest.",
+    "n_objects": 9,
+    "category_counts": {
+      "donkey": 2,
+      "harvest worker": 2,
+      "tractor": 1,
+      "deer": 2,
+      "fruit crate": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n09_002",
+    "prompt": "Outside a city transit terminal, two navy-uniformed conductors pace along the platform, two yellow maintenance vehicles travel down the service road, and two red freight locomotives pass the station. Beyond them, a steel bench sits while two white platform signs hang.",
+    "n_objects": 9,
+    "category_counts": {
+      "maintenance vehicle": 2,
+      "freight locomotive": 2,
+      "conductor": 2,
+      "bench": 1,
+      "platform sign": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n09_003",
+    "prompt": "Across a hillside town square, two orange-jacketed hikers climb the path, three white sheep graze beside the road, and a chestnut horse walks past the houses. Nearby, a black raven flies above the roofs while two red mailboxes stand.",
+    "n_objects": 9,
+    "category_counts": {
+      "horse": 1,
+      "raven": 1,
+      "hiker": 2,
+      "sheep": 3,
+      "mailbox": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n08_001",
+    "prompt": "Eight horses gallop across an open pasture.",
+    "n_objects": 8,
+    "category_counts": {
+      "horse": 8
+    }
+  },
+  {
+    "prompt_id": "easy_n08_002",
+    "prompt": "Eight schoolchildren run across a playground.",
+    "n_objects": 8,
+    "category_counts": {
+      "schoolchild": 8
+    }
+  },
+  {
+    "prompt_id": "easy_n08_003",
+    "prompt": "Eight skaters glide around an indoor rink.",
+    "n_objects": 8,
+    "category_counts": {
+      "skater": 8
+    }
+  },
+  {
+    "prompt_id": "easy_n08_004",
+    "prompt": "Across a wooded park path, four trail runners run past while four owls glide overhead.",
+    "n_objects": 8,
+    "category_counts": {
+      "trail runner": 4,
+      "owl": 4
+    }
+  },
+  {
+    "prompt_id": "hard_n08_001",
+    "prompt": "A brown-and-white cow walks, a tan goat trots, and a dark-winged swallow circles on a grassy farm paddock. Close by, a pink piglet scampers, a gray donkey ambles, and a white sheep grazes. A red feed bin sits, and a weathered barn stands.",
+    "n_objects": 8,
+    "category_counts": {
+      "swallow": 1,
+      "piglet": 1,
+      "donkey": 1,
+      "sheep": 1,
+      "cow": 1,
+      "goat": 1,
+      "feed bin": 1,
+      "barn": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n08_002",
+    "prompt": "Across a wooded park path, a white-tailed rabbit hops through the grass, a black-and-white badger shuffles through leaves, and a black dog bounds beside the path. A brown deer walks through the ferns, a red fox trots along the path, and a gray squirrel scampers across a log. Within view, a gray boulder rests while a cedar bird feeder hangs.",
+    "n_objects": 8,
+    "category_counts": {
+      "badger": 1,
+      "dog": 1,
+      "deer": 1,
+      "fox": 1,
+      "squirrel": 1,
+      "rabbit": 1,
+      "bird feeder": 1,
+      "boulder": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n08_003",
+    "prompt": "Across a wooded park path, a gray squirrel scampers across a log, a bronze wild turkey strides across the trail, and a black-and-white badger shuffles through leaves. A black dog bounds beside the path, a brown deer walks through the ferns, and a red fox trots along the path. In another part of the scene, a cedar bench sits while a painted trail sign stands.",
+    "n_objects": 8,
+    "category_counts": {
+      "wild turkey": 1,
+      "badger": 1,
+      "dog": 1,
+      "deer": 1,
+      "fox": 1,
+      "squirrel": 1,
+      "trail sign": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n08_004",
+    "prompt": "During a street festival, an orange-vested parade marshal walks around the corner, a red-costumed dancer spins through the square, and a blue-jacketed parade marcher marches forward. A gold-clad parade performer walks along the route, a striped-shirted child skips along the festival route, and a black-hatted festival performer sways to the music. Around them, a green waste bin sits while a blue information board stands.",
+    "n_objects": 8,
+    "category_counts": {
+      "parade marshal": 1,
+      "dancer": 1,
+      "parade marcher": 1,
+      "parade performer": 1,
+      "child": 1,
+      "festival performer": 1,
+      "waste bin": 1,
+      "information board": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n08_001",
+    "prompt": "Beside a wetland boardwalk, two gray geese flap across the pond, two green-headed mallards paddle through the reeds, and two white egrets fly above the marsh. A short distance away, two striped water gauges stand.",
+    "n_objects": 8,
+    "category_counts": {
+      "goose": 2,
+      "mallard": 2,
+      "egret": 2,
+      "water gauge": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n08_002",
+    "prompt": "Beside a wetland boardwalk, two red-shouldered red-winged blackbirds flutter among the reeds, two khaki-clad rangers walk along the boardwalk, and two speckled sandpipers run along the mudflat. Beyond them, two green nesting boxes stand.",
+    "n_objects": 8,
+    "category_counts": {
+      "red-winged blackbird": 2,
+      "ranger": 2,
+      "sandpiper": 2,
+      "nesting box": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n08_003",
+    "prompt": "Along an orchard service lane, two green tractors drive down the row, three gray donkeys amble along the fence, and a straw-hatted harvest worker walks between the trees. Along the open area, two silver irrigation tanks stand.",
+    "n_objects": 8,
+    "category_counts": {
+      "donkey": 3,
+      "harvest worker": 1,
+      "tractor": 2,
+      "irrigation tank": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n08_004",
+    "prompt": "At a city intersection, a red-striped ambulance passes the junction, three blue-uniformed mail carriers walk along the sidewalk, and three yellow taxis drive past. A short distance away, a wooden bench sits.",
+    "n_objects": 8,
+    "category_counts": {
+      "ambulance": 1,
+      "mail carrier": 3,
+      "taxi": 3,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "diag_n07_001",
+    "prompt": "Along a wide city street, one red car, one blue car, one white car, one black car, one yellow car, one green car, and one orange car drive forward in separate lanes.",
+    "n_objects": 7,
+    "category_counts": {
+      "car": 7
+    }
+  },
+  {
+    "prompt_id": "diag_n07_002",
+    "prompt": "Across an open public plaza, one person in a red jacket, one in a blue jacket, one in a white jacket, one in a black jacket, one in a yellow jacket, one in a green jacket, and one in an orange jacket walk separately across the square.",
+    "n_objects": 7,
+    "category_counts": {
+      "person": 7
+    }
+  },
+  {
+    "prompt_id": "diag_n07_003",
+    "prompt": "In a fenced training field, one black dog, one white dog, one brown dog, one golden dog, one gray dog, one tan dog, and one spotted dog run across the grass.",
+    "n_objects": 7,
+    "category_counts": {
+      "dog": 7
+    }
+  },
+  {
+    "prompt_id": "diag_n07_004",
+    "prompt": "Across an airport apron, one white service van drives forward, one blue van turns left, one red van remains parked, one yellow van turns right, one green van drives slowly, one black van reverses slowly, and one silver van crosses the apron.",
+    "n_objects": 7,
+    "category_counts": {
+      "service van": 7
+    }
+  },
+  {
+    "prompt_id": "easy_n07_001",
+    "prompt": "Beside a red barn in a farmyard, seven goats graze on the grass.",
+    "n_objects": 7,
+    "category_counts": {
+      "goat": 7
+    }
+  },
+  {
+    "prompt_id": "easy_n07_002",
+    "prompt": "Near a small desert oasis, seven pink flamingos wade along the sandy bank.",
+    "n_objects": 7,
+    "category_counts": {
+      "flamingo": 7
+    }
+  },
+  {
+    "prompt_id": "easy_n07_003",
+    "prompt": "In an open pasture, three donkeys amble while four goats trot.",
+    "n_objects": 7,
+    "category_counts": {
+      "donkey": 3,
+      "goat": 4
+    }
+  },
+  {
+    "prompt_id": "easy_n07_004",
+    "prompt": "A city bus pulls into a terminal platform as two travelers roll two suitcases past two metal benches.",
+    "n_objects": 7,
+    "category_counts": {
+      "bus": 1,
+      "traveler": 2,
+      "suitcase": 2,
+      "bench": 2
+    }
+  },
+  {
+    "prompt_id": "hard_n07_001",
+    "prompt": "A tan-jacketed orchard inspector walks past the gate, a dark-winged swallow circles above the trees, and a gray rabbit hops between the rows in a harvest farm. A gray donkey ambles along the fence, a white pickup truck moves along the track, and a red fruit crate rests. A wooden orchard ladder stands.",
+    "n_objects": 7,
+    "category_counts": {
+      "pickup truck": 1,
+      "orchard inspector": 1,
+      "swallow": 1,
+      "rabbit": 1,
+      "donkey": 1,
+      "orchard ladder": 1,
+      "fruit crate": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n07_002",
+    "prompt": "Across a desert recreation area, a tan camel walks across the sand, a pale desert fox trots over a dune, and a black-and-white ostrich runs across the plain. A white-robed desert walker crosses the sand, a chestnut horse canters along the track, and a canvas shade shelter stands. In the background, a wooden supply crate rests.",
+    "n_objects": 7,
+    "category_counts": {
+      "camel": 1,
+      "desert fox": 1,
+      "ostrich": 1,
+      "desert walker": 1,
+      "horse": 1,
+      "supply crate": 1,
+      "shade shelter": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n07_003",
+    "prompt": "Across a harvest farm, a white pickup truck moves along the track, a brown farm dog runs beside the trees, and a tan deer walks across the grass. Around this activity, a red chicken pecks near the lane, a white goose flaps across the orchard, and a white gate stands. A woven harvest basket rests.",
+    "n_objects": 7,
+    "category_counts": {
+      "farm dog": 1,
+      "deer": 1,
+      "chicken": 1,
+      "goose": 1,
+      "pickup truck": 1,
+      "harvest basket": 1,
+      "gate": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n07_004",
+    "prompt": "Outside a city transit terminal, an orange-clad rail worker walks beside the track, a white service car crosses the forecourt, and a yellow maintenance vehicle travels down the service road. A white taxi turns through the forecourt, a green shuttle bus leaves the curb, and a round station clock hangs. Elsewhere in view, a steel bench sits.",
+    "n_objects": 7,
+    "category_counts": {
+      "taxi": 1,
+      "shuttle bus": 1,
+      "rail worker": 1,
+      "service car": 1,
+      "maintenance vehicle": 1,
+      "station clock": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n07_001",
+    "prompt": "Two brown dogs race across the grass, two purple-clad runners circle the track on school grounds. Two diamond-shaped kites drift overhead. A silver water fountain stands.",
+    "n_objects": 7,
+    "category_counts": {
+      "dog": 2,
+      "runner": 2,
+      "kite": 2,
+      "water fountain": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n07_002",
+    "prompt": "Along a fishing port quay, two white seagulls glide overhead, two gray seals swim beside the pier, and a silver harbor truck drives beside the sheds. A short distance away, two red lifebuoys hang.",
+    "n_objects": 7,
+    "category_counts": {
+      "harbor truck": 1,
+      "seagull": 2,
+      "seal": 2,
+      "lifebuoy": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n07_003",
+    "prompt": "Along a residential riverside path, a green-jacketed park ranger walks along the path, three rust-colored red foxes run along the riverbank, and a white swan glides across the water. Beyond them, two silver drinking fountains stand.",
+    "n_objects": 7,
+    "category_counts": {
+      "park ranger": 1,
+      "red fox": 3,
+      "swan": 1,
+      "drinking fountain": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n07_004",
+    "prompt": "Near a windswept beach, two yellow kayaks cut through the water, three blue fishing boats cross the bay, and a yellow warning sign stands. Nearby, a striped beach umbrella stands.",
+    "n_objects": 7,
+    "category_counts": {
+      "kayak": 2,
+      "fishing boat": 3,
+      "beach umbrella": 1,
+      "warning sign": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n06_001",
+    "prompt": "Six mallard ducks paddle across a neighborhood pond.",
+    "n_objects": 6,
+    "category_counts": {
+      "mallard duck": 6
+    }
+  },
+  {
+    "prompt_id": "easy_n06_002",
+    "prompt": "Steam curls from six white coffee cups on a hotel breakfast buffet.",
+    "n_objects": 6,
+    "category_counts": {
+      "coffee cup": 6
+    }
+  },
+  {
+    "prompt_id": "easy_n06_003",
+    "prompt": "Six white egrets wade through the shallow water of a reed-lined wetland.",
+    "n_objects": 6,
+    "category_counts": {
+      "egret": 6
+    }
+  },
+  {
+    "prompt_id": "easy_n06_004",
+    "prompt": "Three butterflies flutter around blossoms as three tractors drive down a fruit-orchard row.",
+    "n_objects": 6,
+    "category_counts": {
+      "butterfly": 3,
+      "tractor": 3
+    }
+  },
+  {
+    "prompt_id": "hard_n06_001",
+    "prompt": "Across an urban building site, an orange forklift rolls through the yard, a white concrete mixer truck turns into the site, and a blue crane rotates above the structure. Around them, a green road roller travels across the gravel, a yellow warning sign stands, and a silver portable light stands.",
+    "n_objects": 6,
+    "category_counts": {
+      "forklift": 1,
+      "concrete mixer truck": 1,
+      "crane": 1,
+      "road roller": 1,
+      "warning sign": 1,
+      "portable light": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n06_002",
+    "prompt": "Across a sheltered coastal bay, a blue fishing boat crosses the bay, a red speedboat crosses the bay, and a green-clad jogger runs. A white sailboat sails, a turquoise beach hut stands, and a yellow warning sign stands.",
+    "n_objects": 6,
+    "category_counts": {
+      "sailboat": 1,
+      "fishing boat": 1,
+      "speedboat": 1,
+      "jogger": 1,
+      "warning sign": 1,
+      "beach hut": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n06_003",
+    "prompt": "A russet ruffed grouse steps through leaf litter. Meanwhile, a gray snowshoe hare pauses and a dark-brown porcupine shuffles. A striped skunk noses the ground as a red squirrel darts by, and a cinnamon-colored black bear ambles at the forest edge.",
+    "n_objects": 6,
+    "category_counts": {
+      "ruffed grouse": 1,
+      "snowshoe hare": 1,
+      "porcupine": 1,
+      "skunk": 1,
+      "squirrel": 1,
+      "black bear": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n06_004",
+    "prompt": "Across an urban building site, a silver utility vehicle drives past, a blue-helmeted mason crosses the work area, and a yellow-jacketed surveyor walks along the service path. A black-and-yellow wheel loader carries soil forward, a white site office stands, and a wooden material pallet rests.",
+    "n_objects": 6,
+    "category_counts": {
+      "surveyor": 1,
+      "wheel loader": 1,
+      "utility vehicle": 1,
+      "mason": 1,
+      "site office": 1,
+      "material pallet": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n06_001",
+    "prompt": "Along a busy freight terminal, two yellow forklifts drive between the racks while two white delivery trucks pull through the bay, and two wooden shipping pallets rest.",
+    "n_objects": 6,
+    "category_counts": {
+      "forklift": 2,
+      "delivery truck": 2,
+      "shipping pallet": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n06_002",
+    "prompt": "At a city intersection, two silver cars turn through the junction while two blue city buses pull away, and two blue mailboxes stand.",
+    "n_objects": 6,
+    "category_counts": {
+      "car": 2,
+      "city bus": 2,
+      "mailbox": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n06_003",
+    "prompt": "Across a logistics depot, a blue service van drives past the dock while three silver sorting robots turn within the sorting area, and two orange-shirted people walk toward the loading bay.",
+    "n_objects": 6,
+    "category_counts": {
+      "person": 2,
+      "service van": 1,
+      "sorting robot": 3
+    }
+  },
+  {
+    "prompt_id": "mid_n06_004",
+    "prompt": "Three green tractors drive beside a country farm lane. Two pink piglets scamper, and a golden hay bale rests.",
+    "n_objects": 6,
+    "category_counts": {
+      "tractor": 3,
+      "piglet": 2,
+      "hay bale": 1
+    }
+  },
+  {
+    "prompt_id": "diag_n05_001",
+    "prompt": "Along a wide city street, one red car, one blue car, one white car, one black car, and one yellow car drive forward in separate lanes.",
+    "n_objects": 5,
+    "category_counts": {
+      "car": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n05_002",
+    "prompt": "Across an open pasture, one white horse, one black horse, one chestnut horse, one gray horse, and one tan horse trot across the grass.",
+    "n_objects": 5,
+    "category_counts": {
+      "horse": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n05_003",
+    "prompt": "In a fenced training field, one black dog, one white dog, one brown dog, one golden dog, and one gray dog run across the grass.",
+    "n_objects": 5,
+    "category_counts": {
+      "dog": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n05_004",
+    "prompt": "At a city intersection, one red car drives straight, one blue car turns left, one white car remains parked beside the curb, one black car turns right, and one yellow car drives slowly forward.",
+    "n_objects": 5,
+    "category_counts": {
+      "car": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n05_001",
+    "prompt": "Five runners jog around a neighborhood recreation track.",
+    "n_objects": 5,
+    "category_counts": {
+      "runner": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n05_002",
+    "prompt": "Outside a city transit terminal, five passengers walk along the platform.",
+    "n_objects": 5,
+    "category_counts": {
+      "passenger": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n05_003",
+    "prompt": "In a home study, five brass desk lamps glow and flicker along a wooden desk.",
+    "n_objects": 5,
+    "category_counts": {
+      "desk lamp": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n05_004",
+    "prompt": "Near a windswept beach, five terns dive.",
+    "n_objects": 5,
+    "category_counts": {
+      "tern": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n05_001",
+    "prompt": "Along an orchard service lane, a dark-winged swallow circles above the trees, a white goose flaps across the orchard, and a white pickup truck moves along the track. A tan-jacketed orchard inspector walks past the gate while a green tool shed stands.",
+    "n_objects": 5,
+    "category_counts": {
+      "goose": 1,
+      "pickup truck": 1,
+      "orchard inspector": 1,
+      "swallow": 1,
+      "tool shed": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n05_002",
+    "prompt": "A shopper in a cobalt raincoat walks through a stationery shop as a clerk in a cream apron follows a silver delivery robot; a courier in a red jacket and shaggy black dog pass the entrance.",
+    "n_objects": 5,
+    "category_counts": {
+      "shopper": 1,
+      "shop clerk": 1,
+      "delivery robot": 1,
+      "courier": 1,
+      "dog": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n05_003",
+    "prompt": "Along a fishing port quay, a brown pelican flies above the water, a silver harbor truck drives beside the sheds, and a yellow forklift rolls across the dock. Close by, a white seagull glides overhead while a white harbor sign stands.",
+    "n_objects": 5,
+    "category_counts": {
+      "harbor truck": 1,
+      "forklift": 1,
+      "seagull": 1,
+      "pelican": 1,
+      "harbor sign": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n05_004",
+    "prompt": "A tan goat trots beside the wall, a black dog runs across the lane, and a blue shuttle bus drives through the village near a road through an alpine village. A white delivery van turns into the square, and a wooden bench sits.",
+    "n_objects": 5,
+    "category_counts": {
+      "shuttle bus": 1,
+      "delivery van": 1,
+      "goat": 1,
+      "dog": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n05_001",
+    "prompt": "At a neighborhood recreation complex, two orange-shirted joggers run beside the pond while two golden dogs bound over the grass, and a purple-clad dancer moves across the plaza.",
+    "n_objects": 5,
+    "category_counts": {
+      "dog": 2,
+      "dancer": 1,
+      "jogger": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n05_002",
+    "prompt": "Two striped kites drift above the shore at a lakeside recreation area. Two silver fishing boats move toward the pier, and a green information sign stands.",
+    "n_objects": 5,
+    "category_counts": {
+      "kite": 2,
+      "fishing boat": 2,
+      "information sign": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n05_003",
+    "prompt": "Across a coastal marina, an orange-jacketed dockworker walks along the quay while three silver harbor trucks drive beside the sheds, and a red lifebuoy hangs.",
+    "n_objects": 5,
+    "category_counts": {
+      "dockworker": 1,
+      "harbor truck": 3,
+      "lifebuoy": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n05_004",
+    "prompt": "Along a residential riverside path, a rust-colored red fox runs along the riverbank while a white swan glides across the water, and three silver delivery vans drive along the street.",
+    "n_objects": 5,
+    "category_counts": {
+      "red fox": 1,
+      "swan": 1,
+      "delivery van": 3
+    }
+  }
+]
