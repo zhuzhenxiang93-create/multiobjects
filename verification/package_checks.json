@@ -7,8 +7,9 @@
   "model_dry_runs": "4 passed",
   "cpu_orchestration_tests": "5 passed",
   "gpu_validation_of_refactored_entry": "not performed; source deployment proof retained",
-  "uploaded": false,
+  "uploaded": true,
   "secret_pattern_scan": "passed",
   "media_weights_excluded": true,
-  "upload_target": "zhuzhenxiang93-create/multiobjects"
+  "upload_target": "zhuzhenxiang93-create/multiobjects",
+  "initial_upload_commit": "45904cf25b46049ee08a3fb54fe5f85acdaac998"
 }
