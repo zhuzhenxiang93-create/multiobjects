@@ -1,0 +1,189 @@
+[
+  {
+    "prompt_id": "mid_n05_006",
+    "prompt": "A white arctic fox bounds across the snow at a winter recreation area. Three yellow snowmobiles travel along the trail, and a brown-streaked sparrow hops beside the rink.",
+    "n_objects": 5,
+    "category_counts": {
+      "sparrow": 1,
+      "arctic fox": 1,
+      "snowmobile": 3
+    }
+  },
+  {
+    "prompt_id": "mid_n05_009",
+    "prompt": "During a street festival, three black-hatted festival performers sway to the music while a small white dog trots along the curb, and a stone bench sits.",
+    "n_objects": 5,
+    "category_counts": {
+      "festival performer": 3,
+      "dog": 1,
+      "bench": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n04_008",
+    "prompt": "A white mountain goat walks along a windy alpine ridge while a red-jacketed hiker climbs behind a black raven gliding above an olive tent rippling below.",
+    "n_objects": 4,
+    "category_counts": {
+      "mountain goat": 1,
+      "hiker": 1,
+      "raven": 1,
+      "pyramid tent": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n04_009",
+    "prompt": "An orange mobile robot rolls across the floor, a blue-uniformed warehouse worker walks along the aisle, and a yellow forklift drives between the racks at a busy freight terminal. At the same time, a steel storage rack stands.",
+    "n_objects": 4,
+    "category_counts": {
+      "warehouse worker": 1,
+      "forklift": 1,
+      "mobile robot": 1,
+      "storage rack": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n04_010",
+    "prompt": "A reflective-vested aircraft mechanic walks across a regional apron as a blue baggage cart rolls beside a yellow tow tractor pulling a red luggage trailer.",
+    "n_objects": 4,
+    "category_counts": {
+      "aircraft mechanic": 1,
+      "baggage cart": 1,
+      "tow tractor": 1,
+      "luggage trailer": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_005",
+    "prompt": "Across a logistics depot, a blue service van drives past the dock while three silver sorting robots turn within the sorting area.",
+    "n_objects": 4,
+    "category_counts": {
+      "service van": 1,
+      "sorting robot": 3
+    }
+  },
+  {
+    "prompt_id": "mid_n04_006",
+    "prompt": "Three pink piglets scamper beside a country farm lane; a green wheelbarrow rests nearby.",
+    "n_objects": 4,
+    "category_counts": {
+      "piglet": 3,
+      "wheelbarrow": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_009",
+    "prompt": "Along a roadwork staging area, a yellow excavator swings its boom while three yellow bulldozers move over the soil.",
+    "n_objects": 4,
+    "category_counts": {
+      "excavator": 1,
+      "bulldozer": 3
+    }
+  },
+  {
+    "prompt_id": "hard_n03_003",
+    "prompt": "A blue-gray duck wades in shallow water beside a wetland boardwalk; a white swan flies above the marsh, and a woven reed basket rests.",
+    "n_objects": 3,
+    "category_counts": {
+      "duck": 1,
+      "swan": 1,
+      "reed basket": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_007",
+    "prompt": "Along an orchard service lane, a brown farm dog runs beside the trees while a tan deer walks across the grass, and a red fruit crate rests.",
+    "n_objects": 3,
+    "category_counts": {
+      "farm dog": 1,
+      "deer": 1,
+      "fruit crate": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_009",
+    "prompt": "A blue city bus pulls away at a city intersection; a blue-and-white police car turns through the junction, and a blue mailbox stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "city bus": 1,
+      "police car": 1,
+      "mailbox": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_005",
+    "prompt": "Two teal pedicabs roll through a city square past a newspaper kiosk.",
+    "n_objects": 3,
+    "category_counts": {
+      "pedicab": 2,
+      "newspaper kiosk": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_004",
+    "prompt": "At a city intersection, a green-and-cream tram rounds the corner as a courier in a red raincoat walks along the sidewalk.",
+    "n_objects": 2,
+    "category_counts": {
+      "city tram": 1,
+      "courier": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_005",
+    "prompt": "A white fuel truck moves toward a gate as a yellow baggage tractor crosses the service lane outside a regional airport terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "baggage tractor": 1,
+      "fuel truck": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_009",
+    "prompt": "A coat-wearing passenger crosses the apron as an orange-vested ground crew member walks outside a regional airport terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "ground crew member": 1,
+      "passenger": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_004",
+    "prompt": "Outside a city transit terminal, a yellow maintenance vehicle travels down the service road while a red freight locomotive passes the station.",
+    "n_objects": 2,
+    "category_counts": {
+      "maintenance vehicle": 1,
+      "freight locomotive": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_003",
+    "prompt": "A scarlet macaw with blue-and-yellow wing feathers sweeps across a rainforest clearing.",
+    "n_objects": 1,
+    "category_counts": {
+      "scarlet macaw": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_004",
+    "prompt": "A brushed-steel commuter railcar with ribbed side panels glides slowly along the track.",
+    "n_objects": 1,
+    "category_counts": {
+      "railcar": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_005",
+    "prompt": "A brushed-steel oscillating table fan turns slowly in a sunlit apartment bedroom.",
+    "n_objects": 1,
+    "category_counts": {
+      "table fan": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_008",
+    "prompt": "A brown reindeer runs down the snowy track at a winter recreation area.",
+    "n_objects": 1,
+    "category_counts": {
+      "reindeer": 1
+    }
+  }
+]

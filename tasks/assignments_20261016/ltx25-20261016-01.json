@@ -1,0 +1,222 @@
+[
+  {
+    "prompt_id": "hard_n02_001",
+    "prompt": "Along a botanical garden fern walk, a mottled orange-and-white koi glides through a narrow pond, and a tall unfurling tree fern arches over the water.",
+    "n_objects": 2,
+    "category_counts": {
+      "koi": 1,
+      "fern": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_002",
+    "prompt": "Along a residential riverside path, a rust-colored red fox runs along the riverbank while a white duck paddles near the bank.",
+    "n_objects": 2,
+    "category_counts": {
+      "red fox": 1,
+      "duck": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_003",
+    "prompt": "Across a snowy tundra, a white Arctic fox trots beneath a glossy black common raven flying low.",
+    "n_objects": 2,
+    "category_counts": {
+      "arctic fox": 1,
+      "common raven": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_004",
+    "prompt": "At a city intersection, a green-and-cream tram rounds the corner as a courier in a red raincoat walks along the sidewalk.",
+    "n_objects": 2,
+    "category_counts": {
+      "city tram": 1,
+      "courier": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_005",
+    "prompt": "A white fuel truck moves toward a gate as a yellow baggage tractor crosses the service lane outside a regional airport terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "baggage tractor": 1,
+      "fuel truck": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_006",
+    "prompt": "Along a mountain ski area, a red snowcat climbs the piste while a purple-coated child runs across the snow.",
+    "n_objects": 2,
+    "category_counts": {
+      "snowcat": 1,
+      "child": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_007",
+    "prompt": "Across a desert recreation area, a white tour bus moves along the road while an orange hot-air balloon drifts above the ridge.",
+    "n_objects": 2,
+    "category_counts": {
+      "tour bus": 1,
+      "hot-air balloon": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_008",
+    "prompt": "As a white gull flies above the terminal, a checkered airport operations car patrols the apron outside a regional airport terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "airport operations car": 1,
+      "gull": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_009",
+    "prompt": "A coat-wearing passenger crosses the apron as an orange-vested ground crew member walks outside a regional airport terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "ground crew member": 1,
+      "passenger": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n02_010",
+    "prompt": "Along a mountain ski area, a green-jacketed person walks along the snowy trail while a black raven flies above the lodge.",
+    "n_objects": 2,
+    "category_counts": {
+      "person": 1,
+      "raven": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_001",
+    "prompt": "A gray-coated passenger walks along the platform as a silver commuter train pulls into the platform outside a city transit terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "commuter train": 1,
+      "passenger": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_002",
+    "prompt": "As a yellow-vested station cleaner walks through the concourse, a navy-uniformed conductor paces along the platform outside a city transit terminal.",
+    "n_objects": 2,
+    "category_counts": {
+      "conductor": 1,
+      "station cleaner": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_003",
+    "prompt": "Across a harvest farm, a gray donkey ambles along the fence while a straw-hatted harvest worker walks between the trees.",
+    "n_objects": 2,
+    "category_counts": {
+      "donkey": 1,
+      "harvest worker": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_004",
+    "prompt": "Outside a city transit terminal, a yellow maintenance vehicle travels down the service road while a red freight locomotive passes the station.",
+    "n_objects": 2,
+    "category_counts": {
+      "maintenance vehicle": 1,
+      "freight locomotive": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_005",
+    "prompt": "A blue-and-white passenger ferry and a tugboat glide across the water at a compact ferry terminal scene.",
+    "n_objects": 2,
+    "category_counts": {
+      "ferry": 1,
+      "tugboat": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_006",
+    "prompt": "A chestnut horse canters along the track in a desert recreation area. A sand-colored desert hare runs over the dune.",
+    "n_objects": 2,
+    "category_counts": {
+      "horse": 1,
+      "desert hare": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_007",
+    "prompt": "At a city intersection, a silver car turns through the junction while a blue city bus pulls away.",
+    "n_objects": 2,
+    "category_counts": {
+      "car": 1,
+      "city bus": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_008",
+    "prompt": "Across a harvest farm, a white pickup truck moves along the track while a dark-winged swallow circles above the trees.",
+    "n_objects": 2,
+    "category_counts": {
+      "pickup truck": 1,
+      "swallow": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_009",
+    "prompt": "As a black-and-white ostrich runs across the plain, a tan camel walks across the sand in a desert recreation area.",
+    "n_objects": 2,
+    "category_counts": {
+      "camel": 1,
+      "ostrich": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n02_010",
+    "prompt": "Across a harvest farm, a blue-shirted farmer walks down the orchard row while a brown farm dog runs beside the trees.",
+    "n_objects": 2,
+    "category_counts": {
+      "farmer": 1,
+      "farm dog": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_001",
+    "prompt": "A red car drives along a residential street.",
+    "n_objects": 1,
+    "category_counts": {
+      "car": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_002",
+    "prompt": "Near a forest path in a pine grove, a young deer steps through the ferns.",
+    "n_objects": 1,
+    "category_counts": {
+      "deer": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_003",
+    "prompt": "Beside a frozen lake, a red snowmobile travels along a snowy trail near the shore.",
+    "n_objects": 1,
+    "category_counts": {
+      "snowmobile": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_004",
+    "prompt": "A gardener walks along a gravel path in a community garden.",
+    "n_objects": 1,
+    "category_counts": {
+      "gardener": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_005",
+    "prompt": "In a silent campus library study nook, a tabletop globe slowly spins on a wooden desk.",
+    "n_objects": 1,
+    "category_counts": {
+      "globe": 1
+    }
+  }
+]

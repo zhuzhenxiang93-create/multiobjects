@@ -18,7 +18,7 @@ seed默认42；保留原生尺寸，不裁剪或缩放。生成时长与分辨�
 
 - `prompts/prompts650.json`：完整输入数据。
 - `tasks/shared200_objects20to5.json`：LTX、SANA、Wan正在执行的共同200条；不是待认领清单。
-- `tasks/server_reservations.json`：2026-10-13的保守排除快照。
+- `tasks/server_reservations.json`：2026-10-16的排除快照（含学校任务和固定同学批次）。
 - `configs/`：固定生成与质量检查配置。
 - `scripts/run_batch.py`：统一入口。
 - `scripts/split_tasks.py`：排除服务器已占用任务，分出互不重叠的同学清单。
@@ -29,28 +29,21 @@ seed默认42；保留原生尺寸，不裁剪或缩放。生成时长与分辨�
 
 四个模型使用独立环境，另需Git、ffmpeg、ffprobe。详细版本、权重目录和SANA头文件修复见 [安装说明](docs/INSTALL.md)。不上传模型权重、虚拟环境、视频、Token。
 
-## 第一步：分配尚未被占用的任务
+## 同学直接帮跑：推荐入口
 
-由负责人执行，并将每份清单分给一位同学：
-
-```bash
-python scripts/split_tasks.py --model wan --prompts prompts/prompts650.json --workers 3 --output-dir tasks/assignments_wan
-```
-
-输入默认限制5–20物体并按数量降序分片。现有200条清单已在服务器占用，分片会自动排除；换成hunyuan/ltx25/sana分别分配。快照可能过时，新的分配或服务器提交前须更新排除清单。跨机器没有共享锁，禁止同一份清单交给两个运行者。GitHub不能自动提供跨服务器实时任务锁。
-
-## 第二步：预检与运行
-
-先用分配清单中的一条做GPU验收，成功后使用完整清单。以下路径均需替换为自己的目录：
+已导出尚未生成、未被学校作业占用的340条：**Wan250、Hunyuan40、LTX50**。SANA剩余任务仍在学校运行。任务按数量降序，已切成9批。
 
 ```bash
-python scripts/run_batch.py --model hunyuan --source /data/you/HunyuanVideo-1.5 --weights /data/you/HunyuanVideo-1.5-native --tasks tasks/assignments_hunyuan/hunyuan_worker01.json --output-dir /data/you/results/hunyuan --dry-run
-python scripts/run_batch.py --model wan --source /data/you/LightX2V --weights /data/you/Wan2.2-T2V-A14B --tasks tasks/assignments_wan/wan_worker01.json --output-dir /data/you/results/wan
-python scripts/run_batch.py --model ltx25 --source /data/you/LTX-2 --weights /data/you/LTX-2.5 --tasks tasks/assignments_ltx25/ltx25_worker01.json --output-dir /data/you/results/ltx25
-python scripts/run_batch.py --model sana --source /data/you/Sana --weights /data/you/Sana-video2 --text-encoder /data/you/gemma-2-2b-it --tasks tasks/assignments_sana/sana_worker01.json --output-dir /data/you/results/sana
+git pull --ff-only
+python3 scripts/run_assignment.py --list
+python3 scripts/run_assignment.py wan-20261016-01 --worker YOUR_GITHUB_USERNAME --workspace /data/YOURNAME/video-generation
 ```
 
-四个模型均支持`--dry-run`；它只检查任务与配置，不加载GPU。Hunyuan实际运行时去掉`--dry-run`。SANA显式本地Gemma路径避免离线模式下仍访问网络；分块VAE沿用成功配置。
+**首次需要安装对应GPU环境和权重，或在profiles/local.json填已有路径。**此后无需修改生成代码，pull后使用一条命令即可领取和运行。入口使用GitHub原子领取锁，别人已领取的批次会拒绝运行；需要collaborator写权限。
+
+完整步骤、任务表、中断续跑、结果回传见 **[同学协作说明](docs/COLLABORATION.md)**。
+
+`tasks/collaboration.json`为固定分配快照；实际领取状态看`claims/批次ID`分支。不要直接重新切分或绕过run_assignment.py运行这些同学任务。
 
 ## 日志、续跑与返回结果
 
@@ -75,4 +68,4 @@ python scripts/run_batch.py --model sana --source /data/you/Sana --weights /data
 python -m unittest discover -s tests -v
 ```
 
-测试使用模拟worker，覆盖续跑不重复、配置变化拒绝复用、损坏文件拒绝跳过、错误记录和分片排除。它们不替代GPU首条验收。
+测试覆盖续跑、失败记录、模型参数适配，并使用实际本地Git远端测试两人并发领取、同名用户换机去重、原机恢复和完成状态。它们不替代GPU首条验收。

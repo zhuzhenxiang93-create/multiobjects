@@ -1,0 +1,202 @@
+[
+  {
+    "prompt_id": "easy_n06_003",
+    "prompt": "Six white egrets wade through the shallow water of a reed-lined wetland.",
+    "n_objects": 6,
+    "category_counts": {
+      "egret": 6
+    }
+  },
+  {
+    "prompt_id": "easy_n06_007",
+    "prompt": "Near an outdoor market stall, a vendor arranges three red apples beside two small pumpkins.",
+    "n_objects": 6,
+    "category_counts": {
+      "vendor": 1,
+      "apple": 3,
+      "pumpkin": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n06_008",
+    "prompt": "Along a suburban train platform, three commuter trains pull into the platform while three conductors pace along the platform.",
+    "n_objects": 6,
+    "category_counts": {
+      "commuter train": 3,
+      "conductor": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n06_009",
+    "prompt": "Near a broad desert wash, three camels walk across the sand while three desert walkers cross the sand.",
+    "n_objects": 6,
+    "category_counts": {
+      "camel": 3,
+      "desert walker": 3
+    }
+  },
+  {
+    "prompt_id": "hard_n06_002",
+    "prompt": "Across a sheltered coastal bay, a blue fishing boat crosses the bay, a red speedboat crosses the bay, and a green-clad jogger runs. A white sailboat sails, a turquoise beach hut stands, and a yellow warning sign stands.",
+    "n_objects": 6,
+    "category_counts": {
+      "sailboat": 1,
+      "fishing boat": 1,
+      "speedboat": 1,
+      "jogger": 1,
+      "warning sign": 1,
+      "beach hut": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n06_004",
+    "prompt": "Across an urban building site, a silver utility vehicle drives past, a blue-helmeted mason crosses the work area, and a yellow-jacketed surveyor walks along the service path. A black-and-yellow wheel loader carries soil forward, a white site office stands, and a wooden material pallet rests.",
+    "n_objects": 6,
+    "category_counts": {
+      "surveyor": 1,
+      "wheel loader": 1,
+      "utility vehicle": 1,
+      "mason": 1,
+      "site office": 1,
+      "material pallet": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n06_010",
+    "prompt": "A white water truck moves down the access road, an orange-vested site engineer walks across the site, and a yellow excavator swings its boom in an urban building site. A blue-helmeted mason crosses the work area, a silver portable light stands, and a yellow warning sign stands.",
+    "n_objects": 6,
+    "category_counts": {
+      "mason": 1,
+      "water truck": 1,
+      "site engineer": 1,
+      "excavator": 1,
+      "warning sign": 1,
+      "portable light": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n06_001",
+    "prompt": "Along a busy freight terminal, two yellow forklifts drive between the racks while two white delivery trucks pull through the bay, and two wooden shipping pallets rest.",
+    "n_objects": 6,
+    "category_counts": {
+      "forklift": 2,
+      "delivery truck": 2,
+      "shipping pallet": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n06_010",
+    "prompt": "Below a rocky alpine ridge, three tan deer walk along the trail while two white mountain goats scramble over rocks, and a golden eagle circles overhead.",
+    "n_objects": 6,
+    "category_counts": {
+      "mountain goat": 2,
+      "eagle": 1,
+      "deer": 3
+    }
+  },
+  {
+    "prompt_id": "diag_n05_002",
+    "prompt": "Across an open pasture, one white horse, one black horse, one chestnut horse, one gray horse, and one tan horse trot across the grass.",
+    "n_objects": 5,
+    "category_counts": {
+      "horse": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n05_003",
+    "prompt": "In a fenced training field, one black dog, one white dog, one brown dog, one golden dog, and one gray dog run across the grass.",
+    "n_objects": 5,
+    "category_counts": {
+      "dog": 5
+    }
+  },
+  {
+    "prompt_id": "diag_n05_007",
+    "prompt": "Inside a logistics depot, three yellow forklifts drive between the racks while two blue-uniformed warehouse workers walk along the aisle.",
+    "n_objects": 5,
+    "category_counts": {
+      "forklift": 3,
+      "warehouse worker": 2
+    }
+  },
+  {
+    "prompt_id": "diag_n05_008",
+    "prompt": "Across a winter recreation field, two yellow snowmobiles travel along the trail while two red-jacketed people walk across the snow and one black-and-white sled dog runs beside them.",
+    "n_objects": 5,
+    "category_counts": {
+      "snowmobile": 2,
+      "person": 2,
+      "sled dog": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n05_003",
+    "prompt": "In a home study, five brass desk lamps glow and flicker along a wooden desk.",
+    "n_objects": 5,
+    "category_counts": {
+      "desk lamp": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n05_004",
+    "prompt": "Near a windswept beach, five terns dive.",
+    "n_objects": 5,
+    "category_counts": {
+      "tern": 5
+    }
+  },
+  {
+    "prompt_id": "easy_n05_005",
+    "prompt": "Along an alpine trail, five marmots scurry across the slope.",
+    "n_objects": 5,
+    "category_counts": {
+      "marmot": 5
+    }
+  },
+  {
+    "prompt_id": "hard_n05_001",
+    "prompt": "Along an orchard service lane, a dark-winged swallow circles above the trees, a white goose flaps across the orchard, and a white pickup truck moves along the track. A tan-jacketed orchard inspector walks past the gate while a green tool shed stands.",
+    "n_objects": 5,
+    "category_counts": {
+      "goose": 1,
+      "pickup truck": 1,
+      "orchard inspector": 1,
+      "swallow": 1,
+      "tool shed": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n05_005",
+    "prompt": "A tan goat trots beside the wall, a black dog runs across the lane, and a chestnut horse walks past the houses near a road through an alpine village. Within view, a white delivery van turns into the square, and a red mailbox stands.",
+    "n_objects": 5,
+    "category_counts": {
+      "delivery van": 1,
+      "goat": 1,
+      "dog": 1,
+      "horse": 1,
+      "mailbox": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n05_008",
+    "prompt": "A red rescue helicopter flies over the valley near a road through an alpine village; a green tractor moves down the road, a black raven flies above the roofs. An orange-jacketed hiker climbs the path, and a blue route marker stands.",
+    "n_objects": 5,
+    "category_counts": {
+      "tractor": 1,
+      "raven": 1,
+      "rescue helicopter": 1,
+      "hiker": 1,
+      "route marker": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n05_004",
+    "prompt": "Along a residential riverside path, a rust-colored red fox runs along the riverbank while a white swan glides across the water, and three silver delivery vans drive along the street.",
+    "n_objects": 5,
+    "category_counts": {
+      "red fox": 1,
+      "swan": 1,
+      "delivery van": 3
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "workspace": "${VIDEO_WORKSPACE}",
+  "models": {
+    "hunyuan": {
+      "python": "${VIDEO_WORKSPACE}/envs/hunyuan/bin/python",
+      "source": "${VIDEO_WORKSPACE}/source/HunyuanVideo-1.5",
+      "weights": "${VIDEO_WORKSPACE}/models/HunyuanVideo-1.5-native"
+    },
+    "wan": {
+      "python": "${VIDEO_WORKSPACE}/envs/wan/bin/python",
+      "source": "${VIDEO_WORKSPACE}/source/LightX2V",
+      "weights": "${VIDEO_WORKSPACE}/models/Wan2.2-T2V-A14B"
+    },
+    "ltx25": {
+      "python": "${VIDEO_WORKSPACE}/envs/ltx25/bin/python",
+      "source": "${VIDEO_WORKSPACE}/source/LTX-2",
+      "weights": "${VIDEO_WORKSPACE}/models/LTX-2.5"
+    },
+    "sana": {
+      "python": "${VIDEO_WORKSPACE}/envs/sana/bin/python",
+      "source": "${VIDEO_WORKSPACE}/source/Sana",
+      "weights": "${VIDEO_WORKSPACE}/models/Sana-video2",
+      "text_encoder": "${VIDEO_WORKSPACE}/models/gemma-2-2b-it"
+    }
+  }
+}

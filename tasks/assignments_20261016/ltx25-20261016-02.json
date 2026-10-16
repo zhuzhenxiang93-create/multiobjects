@@ -1,0 +1,202 @@
+[
+  {
+    "prompt_id": "easy_n01_006",
+    "prompt": "Along an alpine trail, a dog trots beside the path.",
+    "n_objects": 1,
+    "category_counts": {
+      "dog": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_007",
+    "prompt": "On a linen-covered table in a hotel breakfast nook, a silver teapot releases a steady curl of steam beside a window.",
+    "n_objects": 1,
+    "category_counts": {
+      "teapot": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_008",
+    "prompt": "A brown river otter swims through a lakeside inlet.",
+    "n_objects": 1,
+    "category_counts": {
+      "river otter": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_009",
+    "prompt": "A plump marmot scrambles over a sunlit rock beside a trail in an alpine valley.",
+    "n_objects": 1,
+    "category_counts": {
+      "marmot": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n01_010",
+    "prompt": "A street sweeper rolls slowly along an urban street at dawn.",
+    "n_objects": 1,
+    "category_counts": {
+      "street sweeper": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_001",
+    "prompt": "A bronze-feathered turkey with a fanned tail struts through a sunlit farmyard beside a weathered wooden fence.",
+    "n_objects": 1,
+    "category_counts": {
+      "turkey": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_002",
+    "prompt": "A pale sand-colored snake with a raised black-tipped tail sidewinds across a dry salt flat.",
+    "n_objects": 1,
+    "category_counts": {
+      "snake": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_003",
+    "prompt": "A scarlet macaw with blue-and-yellow wing feathers sweeps across a rainforest clearing.",
+    "n_objects": 1,
+    "category_counts": {
+      "scarlet macaw": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_004",
+    "prompt": "A brushed-steel commuter railcar with ribbed side panels glides slowly along the track.",
+    "n_objects": 1,
+    "category_counts": {
+      "railcar": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_005",
+    "prompt": "A brushed-steel oscillating table fan turns slowly in a sunlit apartment bedroom.",
+    "n_objects": 1,
+    "category_counts": {
+      "table fan": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_006",
+    "prompt": "In a civic art center lobby, a brushed-aluminum kinetic sculpture with overlapping copper fins turns gently beneath the skylight.",
+    "n_objects": 1,
+    "category_counts": {
+      "kinetic sculpture": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_007",
+    "prompt": "A white-hulled racing sailboat with a cobalt mainsail cuts through choppy harbor water.",
+    "n_objects": 1,
+    "category_counts": {
+      "racing sailboat": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_008",
+    "prompt": "A moss-dappled turtle, whose ridged brown shell catches the filtered light, crawls slowly over damp leaf litter.",
+    "n_objects": 1,
+    "category_counts": {
+      "turtle": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_009",
+    "prompt": "Along an airfield service area, a black helicopter hovers.",
+    "n_objects": 1,
+    "category_counts": {
+      "helicopter": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n01_010",
+    "prompt": "By a shaded botanical garden pond, a speckled orange-and-white koi glides beneath rippling water. Sunlight flickers across the koi's scaled back.",
+    "n_objects": 1,
+    "category_counts": {
+      "koi": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_001",
+    "prompt": "A tall gray heron with a black-tipped beak wades through shallow marsh water.",
+    "n_objects": 1,
+    "category_counts": {
+      "heron": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_002",
+    "prompt": "Across a mountain meadow, a mottled brown pheasant walks through low grass.",
+    "n_objects": 1,
+    "category_counts": {
+      "pheasant": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_003",
+    "prompt": "A chipped red city bus drives along a city avenue.",
+    "n_objects": 1,
+    "category_counts": {
+      "city bus": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_004",
+    "prompt": "A yellow rescue helicopter hovers above the runway.",
+    "n_objects": 1,
+    "category_counts": {
+      "helicopter": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_005",
+    "prompt": "A copper wind chime sways outside a gift shop.",
+    "n_objects": 1,
+    "category_counts": {
+      "wind chime": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_006",
+    "prompt": "A yellow school bus pulls away on school grounds.",
+    "n_objects": 1,
+    "category_counts": {
+      "school bus": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_007",
+    "prompt": "A speckled sandpiper trots along the wet sand.",
+    "n_objects": 1,
+    "category_counts": {
+      "sandpiper": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_008",
+    "prompt": "A brown reindeer runs down the snowy track at a winter recreation area.",
+    "n_objects": 1,
+    "category_counts": {
+      "reindeer": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_009",
+    "prompt": "A turquoise-throated lizard scurries over cracked clay.",
+    "n_objects": 1,
+    "category_counts": {
+      "lizard": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n01_010",
+    "prompt": "Along a suburban sidewalk, a brass oscillating lawn sprinkler sweeps a fan of water over the grass.",
+    "n_objects": 1,
+    "category_counts": {
+      "sprinkler": 1
+    }
+  }
+]
