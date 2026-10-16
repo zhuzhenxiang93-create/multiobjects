@@ -1,5 +1,5 @@
 {
-  "README.md": "e188a47426e94255c04b2f530f7d4eea8f32a50e59ce33d0a0666e723f74f5f1",
+  "README.md": "2c026bd5df45d8ddf3c8dfa3fd2b2c3f6f5b1ee18f083f7be914d97cce3bbe9f",
   ".gitignore": "0f530e87e7c3cd3c2c61114ef582b9b97c265f06f8c804da53af4ed33541dc74",
   "AGENTS.md": "5747deecaa54116cb0bb3514a688b449e8052bcb38493e5d7d35ffd5b7dd0111",
   "tasks/shared200_objects20to5.json": "61de330e646114a0256d457bb183ff499f4cc08118daafd96e45fae3577740bb",
@@ -24,6 +24,7 @@
   "tests/test_orchestration.py": "aa2301ce2ae61817a13924b4807f2cccaa7326e549e3f6c992b2fd6558c23d2b",
   "tests/test_worker_adapters.py": "efca9df10af1d431da8397099a753d9816a935b17205fb1af4801d21dd173461",
   "tests/test_git_claims.py": "0df1379e450652faea26d486c5f6363d46e60a6fd4e2efc75700f031f6085788",
+  "docs/WAN_QUICKSTART.md": "7fcbe874fcec0917f3c215fef23681c5d64bacbd78cb76e70cb76da377978765",
   "docs/COLLABORATION.md": "7b5b7d7f34485875673c39dadd7fb30b9d9234881c208c6299c7ea2bf6a12b7b",
   "docs/INSTALL.md": "08ee7f9b1e11434d8e0f8121b9d1a2a189f0ea310f04b7b3e663c172c4ede2a6",
   "verification/software_versions.json": "e2b78d45a89df40a66ca3781ca05c13c9111177d0a378fd31a88afc3e000a83a",
@@ -52,6 +53,7 @@
   "scripts/preflight.py": "98cf27d6b990ab591fe0216f51df4bcd00fc8b3d70b5b93d16f1dd9410fb464f",
   "prompts/prompts650.json": "b01eeb04b633a73125096167c574fd002eebd10c15249f1b86b4a64427114ac3",
   "profiles/local.example.json": "d0fd06469c98945b3061ac72e82c1f0090321392bef64720e28ce20beb5ed10b",
+  "profiles/wan.example.json": "3bdab2618b62ff98bbd7bf22e00c242cd5ae7f472d95a46926dfb8262044a6df",
   "reference/run_wan150.py": "f204b4791dd64336a79f9061367b8d5be76f210e8d8081a3860b5212a7a7579a",
   "reference/run_hunyuan150.py": "f68f81bef3705da6c2757d3f937a1a41032cbca2abc3c4d7d265e6f29a3654f8",
   "reference/sana/source_commit.txt": "d2e199baac69573eb184f7d8ad1f8098907ee108066c366718ac6b09933b4574",

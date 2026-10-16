@@ -1,0 +1,10 @@
+{
+  "workspace": "${VIDEO_WORKSPACE}",
+  "models": {
+    "wan": {
+      "python": "${VIDEO_WORKSPACE}/envs/wan/bin/python",
+      "source": "${VIDEO_WORKSPACE}/source/LightX2V",
+      "weights": "${VIDEO_WORKSPACE}/models/Wan2.2-T2V-A14B"
+    }
+  }
+}
