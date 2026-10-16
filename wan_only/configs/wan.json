@@ -1,0 +1,9 @@
+{
+  "width": 1280,
+  "height": 720,
+  "num_frames": 81,
+  "fps": 16,
+  "steps": 40,
+  "backend": "LightX2V SageAttention2",
+  "t5_cpu_offload": true
+}

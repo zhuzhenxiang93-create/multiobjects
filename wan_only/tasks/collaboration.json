@@ -1,0 +1,46 @@
+{
+  "snapshot_date": "2026-10-16",
+  "repository": "https://github.com/zhuzhenxiang93-create/multiobjects.git",
+  "lots": {
+    "wan-20261016-01": {
+      "model": "wan",
+      "path": "tasks/assignments_20261016/wan-20261016-01.json",
+      "tasks": 50,
+      "sha256": "88cc84b509dc21dc0d18ac077cd1de69b282d8c567af914da6394fe90cb4946c",
+      "status": "available",
+      "order": "n_objects descending then prompt_id"
+    },
+    "wan-20261016-02": {
+      "model": "wan",
+      "path": "tasks/assignments_20261016/wan-20261016-02.json",
+      "tasks": 50,
+      "sha256": "a95b98a0dabab6896814bca4778a59166c61007e73d8757accfc33c7b08d985f",
+      "status": "available",
+      "order": "n_objects descending then prompt_id"
+    },
+    "wan-20261016-03": {
+      "model": "wan",
+      "path": "tasks/assignments_20261016/wan-20261016-03.json",
+      "tasks": 50,
+      "sha256": "2e87aca1e721874266bc316d2fb033eaa5cf0af85f046c4a145421fe51a1b527",
+      "status": "available",
+      "order": "n_objects descending then prompt_id"
+    },
+    "wan-20261016-04": {
+      "model": "wan",
+      "path": "tasks/assignments_20261016/wan-20261016-04.json",
+      "tasks": 50,
+      "sha256": "8c67e4ea7ffa216b1f8a8f47433e9ee0ef49f014e41cf99383172d2bfb86a3fd",
+      "status": "available",
+      "order": "n_objects descending then prompt_id"
+    },
+    "wan-20261016-05": {
+      "model": "wan",
+      "path": "tasks/assignments_20261016/wan-20261016-05.json",
+      "tasks": 50,
+      "sha256": "9de6da28d95088fa6073266904e65ce0cc1caabd782f464129c7d2c92aa89ee2",
+      "status": "available",
+      "order": "n_objects descending then prompt_id"
+    }
+  }
+}

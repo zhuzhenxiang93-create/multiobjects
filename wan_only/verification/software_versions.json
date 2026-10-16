@@ -1,0 +1,15 @@
+{
+  "wan": {
+    "python": "3.12.13",
+    "packages": {
+      "torch": "2.6.0",
+      "transformers": "4.51.3",
+      "diffusers": "0.39.0",
+      "sageattention": "2.2.0",
+      "lightx2v": "0.5.0",
+      "triton": "3.2.0",
+      "av": "19.0.1"
+    },
+    "source_commit": "cabb8bb684e44af5aa19be437f2e15082855cb96"
+  }
+}

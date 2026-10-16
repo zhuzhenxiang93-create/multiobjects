@@ -1,0 +1,446 @@
+[
+  {
+    "prompt_id": "mid_n04_001",
+    "prompt": "Along a mountain ski area, two black ravens fly above the lodge while two silver gondola cabins move along the cable.",
+    "n_objects": 4,
+    "category_counts": {
+      "raven": 2,
+      "gondola cabin": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n04_002",
+    "prompt": "Outside a regional airport terminal, two white fuel trucks move toward a gate while two orange-vested ground crew members walk.",
+    "n_objects": 4,
+    "category_counts": {
+      "fuel truck": 2,
+      "ground crew member": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n04_003",
+    "prompt": "Along a covered produce market, three wooden handcarts roll down the aisle while a woven basket rests.",
+    "n_objects": 4,
+    "category_counts": {
+      "handcart": 3,
+      "basket": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_004",
+    "prompt": "Three striped lizards scurry over rocks in a desert recreation area; a folding camp chair sits nearby.",
+    "n_objects": 4,
+    "category_counts": {
+      "lizard": 3,
+      "camp chair": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_005",
+    "prompt": "Across a logistics depot, a blue service van drives past the dock while three silver sorting robots turn within the sorting area.",
+    "n_objects": 4,
+    "category_counts": {
+      "service van": 1,
+      "sorting robot": 3
+    }
+  },
+  {
+    "prompt_id": "mid_n04_006",
+    "prompt": "Three pink piglets scamper beside a country farm lane; a green wheelbarrow rests nearby.",
+    "n_objects": 4,
+    "category_counts": {
+      "piglet": 3,
+      "wheelbarrow": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_007",
+    "prompt": "Three yellow school buses pull away on school grounds, with a steel bicycle rack standing nearby.",
+    "n_objects": 4,
+    "category_counts": {
+      "school bus": 3,
+      "bicycle rack": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_008",
+    "prompt": "Across a winter recreation field, three brown reindeers run down the snowy track while a yellow trail sign stands.",
+    "n_objects": 4,
+    "category_counts": {
+      "reindeer": 3,
+      "trail sign": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n04_009",
+    "prompt": "Along a roadwork staging area, a yellow excavator swings its boom while three yellow bulldozers move over the soil.",
+    "n_objects": 4,
+    "category_counts": {
+      "excavator": 1,
+      "bulldozer": 3
+    }
+  },
+  {
+    "prompt_id": "mid_n04_010",
+    "prompt": "As three brown ducks paddle along the reeds, a blue canoe glides near the shore at a lakeside recreation area.",
+    "n_objects": 4,
+    "category_counts": {
+      "canoe": 1,
+      "duck": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n03_001",
+    "prompt": "On a wooden desk in a home office, a desk lamp flickers as the pages of two open notebooks lift in a light draft.",
+    "n_objects": 3,
+    "category_counts": {
+      "lamp": 1,
+      "notebook": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n03_002",
+    "prompt": "Three dolphins swim through clear coastal water.",
+    "n_objects": 3,
+    "category_counts": {
+      "dolphin": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n03_003",
+    "prompt": "In a calm marina basin beside an empty dock, three white sailboats bob gently on the water.",
+    "n_objects": 3,
+    "category_counts": {
+      "sailboat": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n03_004",
+    "prompt": "Along a leaf-covered woodland trail, two deer step beneath a barred owl fluttering from a low branch.",
+    "n_objects": 3,
+    "category_counts": {
+      "deer": 2,
+      "owl": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n03_005",
+    "prompt": "Three conveyor belts run through the sorting area of a logistics depot.",
+    "n_objects": 3,
+    "category_counts": {
+      "conveyor belt": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n03_006",
+    "prompt": "Three gardeners tend a small community garden plot.",
+    "n_objects": 3,
+    "category_counts": {
+      "gardener": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n03_007",
+    "prompt": "In a school science classroom, a teacher rotates two desktop globes.",
+    "n_objects": 3,
+    "category_counts": {
+      "teacher": 1,
+      "globe": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n03_008",
+    "prompt": "Across an urban transit square, three ambulances pass the junction.",
+    "n_objects": 3,
+    "category_counts": {
+      "ambulance": 3
+    }
+  },
+  {
+    "prompt_id": "easy_n03_009",
+    "prompt": "At a small neighborhood bakery counter, a baker carries a frosted cake past a cash register.",
+    "n_objects": 3,
+    "category_counts": {
+      "baker": 1,
+      "cake": 1,
+      "cash register": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n03_010",
+    "prompt": "Three river otters swim through a calm wetland channel.",
+    "n_objects": 3,
+    "category_counts": {
+      "river otter": 3
+    }
+  },
+  {
+    "prompt_id": "hard_n03_001",
+    "prompt": "Across a hillside town square, a white sheep grazes beside the road while a red-coated villager walks along the road, and a blue route marker stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "sheep": 1,
+      "villager": 1,
+      "route marker": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_002",
+    "prompt": "Along an airfield service area, a white airplane taxis while a blue-striped propeller airplane rolls toward the runway, and a striped windsock pole stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "airplane": 2,
+      "windsock pole": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_003",
+    "prompt": "A blue-gray duck wades in shallow water beside a wetland boardwalk; a white swan flies above the marsh, and a woven reed basket rests.",
+    "n_objects": 3,
+    "category_counts": {
+      "duck": 1,
+      "swan": 1,
+      "reed basket": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_004",
+    "prompt": "Along a riverside athletics ground, a white-clad tennis player runs along the baseline while a blue-jacketed coach walks beside the track, and a white goalpost stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "tennis player": 1,
+      "coach": 1,
+      "goalpost": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_005",
+    "prompt": "Along a townhouse entry path after rain, a black wrought-iron gate swings gently, a copper rain chain drips from the eave, and a teal glazed planter sits by the walkway.",
+    "n_objects": 3,
+    "category_counts": {
+      "gate": 1,
+      "rain chain": 1,
+      "planter": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_006",
+    "prompt": "A red-shirted park worker walks along the promenade at a neighborhood recreation complex; a blue-jerseyed runner circles the track, and a green picnic table stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "park worker": 1,
+      "runner": 1,
+      "picnic table": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_007",
+    "prompt": "Along an orchard service lane, a brown farm dog runs beside the trees while a tan deer walks across the grass, and a red fruit crate rests.",
+    "n_objects": 3,
+    "category_counts": {
+      "farm dog": 1,
+      "deer": 1,
+      "fruit crate": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_008",
+    "prompt": "A gray-haired person walks beneath a carved wooden mask while carrying a folded exhibition brochure.",
+    "n_objects": 3,
+    "category_counts": {
+      "person": 1,
+      "mask": 1,
+      "brochure": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_009",
+    "prompt": "A blue city bus pulls away at a city intersection; a blue-and-white police car turns through the junction, and a blue mailbox stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "city bus": 1,
+      "police car": 1,
+      "mailbox": 1
+    }
+  },
+  {
+    "prompt_id": "hard_n03_010",
+    "prompt": "A red-crested woodpecker climbs a rain-darkened cedar trunk as a striped chipmunk scurries below and a white-tailed deer steps through wet ferns.",
+    "n_objects": 3,
+    "category_counts": {
+      "woodpecker": 1,
+      "chipmunk": 1,
+      "white-tailed deer": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_001",
+    "prompt": "Two players in yellow jerseys run across an outdoor tennis court as a white terrier runs beside them.",
+    "n_objects": 3,
+    "category_counts": {
+      "tennis player": 2,
+      "terrier": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_002",
+    "prompt": "Inside a casual noodle restaurant, a chef in a white jacket works behind two steaming ramen bowls.",
+    "n_objects": 3,
+    "category_counts": {
+      "chef": 1,
+      "bowl": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n03_003",
+    "prompt": "Two red-winged blackbirds flutter over the water as a brown beaver swims below.",
+    "n_objects": 3,
+    "category_counts": {
+      "blackbird": 2,
+      "beaver": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_004",
+    "prompt": "Two white geese walk along a grassy riverside path while a shaggy brown dog runs nearby.",
+    "n_objects": 3,
+    "category_counts": {
+      "goose": 2,
+      "dog": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_005",
+    "prompt": "Two teal pedicabs roll through a city square past a newspaper kiosk.",
+    "n_objects": 3,
+    "category_counts": {
+      "pedicab": 2,
+      "newspaper kiosk": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_006",
+    "prompt": "Across a wooded park path, two gray squirrels scamper across logs while a wooden footbridge stands.",
+    "n_objects": 3,
+    "category_counts": {
+      "squirrel": 2,
+      "footbridge": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_007",
+    "prompt": "Two blue toy boats drift across a shallow park fountain beside a yellow rubber duck.",
+    "n_objects": 3,
+    "category_counts": {
+      "toy boat": 2,
+      "rubber duck": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_008",
+    "prompt": "During a street festival, two blue-jacketed parade marchers march forward while a red banner hangs.",
+    "n_objects": 3,
+    "category_counts": {
+      "parade marcher": 2,
+      "banner": 1
+    }
+  },
+  {
+    "prompt_id": "mid_n03_009",
+    "prompt": "Two purple-coated children run across the snow as a yellow snowmobile travels along the trail at a winter recreation area.",
+    "n_objects": 3,
+    "category_counts": {
+      "snowmobile": 1,
+      "child": 2
+    }
+  },
+  {
+    "prompt_id": "mid_n03_010",
+    "prompt": "Along a vineyard lane, two gray donkeys amble past a rusted soil roller.",
+    "n_objects": 3,
+    "category_counts": {
+      "donkey": 2,
+      "roller": 1
+    }
+  },
+  {
+    "prompt_id": "easy_n02_001",
+    "prompt": "Across a sheltered lakeside park, two fishing boats move toward the pier.",
+    "n_objects": 2,
+    "category_counts": {
+      "fishing boat": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_002",
+    "prompt": "Two single-engine airplanes taxi across the apron beside a small airfield hangar.",
+    "n_objects": 2,
+    "category_counts": {
+      "airplane": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_003",
+    "prompt": "Two potted flowering plants sway on a wooden table at an outdoor market flower stall.",
+    "n_objects": 2,
+    "category_counts": {
+      "potted plant": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_004",
+    "prompt": "Across a neighborhood waterfront park, two pigeons fly over the path.",
+    "n_objects": 2,
+    "category_counts": {
+      "pigeon": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_005",
+    "prompt": "Two sailboats cut across a windy coastal bay.",
+    "n_objects": 2,
+    "category_counts": {
+      "sailboat": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_006",
+    "prompt": "At an open-air market, two shoppers walk between the stalls.",
+    "n_objects": 2,
+    "category_counts": {
+      "shopper": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_007",
+    "prompt": "Across a sheltered coastal bay, two pelicans flap low.",
+    "n_objects": 2,
+    "category_counts": {
+      "pelican": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_008",
+    "prompt": "Along a riverside athletics ground, two soccer players sprint across the field.",
+    "n_objects": 2,
+    "category_counts": {
+      "soccer player": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_009",
+    "prompt": "Two red trams travel along a city transit corridor.",
+    "n_objects": 2,
+    "category_counts": {
+      "tram": 2
+    }
+  },
+  {
+    "prompt_id": "easy_n02_010",
+    "prompt": "At an open-air market, two taxis pass the market entrance.",
+    "n_objects": 2,
+    "category_counts": {
+      "taxi": 2
+    }
+  }
+]
