@@ -1,6 +1,3 @@
-# 只跑 Wan：同学协作入口
-
-本目录只包含 **Wan2.2-T2V-A14B + LightX2V + SageAttention2** 的代码、固定配置和待跑任务。无需安装其他视频模型。
 
 ## 1. 获取代码
 
@@ -17,7 +14,7 @@ git config user.email YOUR_GITHUB_USERNAME@users.noreply.github.com
 
 ## 2. 首次准备环境和权重
 
-已成功服务器的组合如下。这里记录的是实际部署版本；本独立入口还没有在同学的 GPU 上完成首条验收。
+已成功服务器的组合如下。这里记录的是实际部署版本；
 
 | 组件 | 固定版本 |
 |---|---|
