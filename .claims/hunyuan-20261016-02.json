@@ -1,0 +1,11 @@
+{
+  "lot": "hunyuan-20261016-02",
+  "model": "hunyuan",
+  "worker": "zhuzhenxiang93-create",
+  "claim_id": "7b9446e5-1807-4113-9a6c-bd95413471c7",
+  "manifest_sha256": "d3d9be2ebf0d2143b2b9ef33a22fef0f7134be47687e7ab1a136a3e4f123ac73",
+  "status": "claimed",
+  "assigned_server": 2,
+  "batch": "hunyuan_remaining40_20261016_v1",
+  "source_commit": "cb195fc2e084348e2feda4b76207aaa6cd0b3b52"
+}
