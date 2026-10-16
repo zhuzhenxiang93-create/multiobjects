@@ -1,6 +1,3 @@
-# 同学只帮跑Wan
-
-只需要准备Wan2.2-T2V-A14B + LightX2V这一套环境，不需要安装Hunyuan、LTX或SANA。
 
 ## 1. 一次性准备
 
