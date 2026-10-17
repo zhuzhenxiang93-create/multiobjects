@@ -1,0 +1,10 @@
+{
+  "lot": "ltx25-20261016-02",
+  "model": "ltx25",
+  "worker": "zhuzhenxiang93-create",
+  "claim_id": "431376e4-06fa-4ec7-8696-71f0c2cbad6b",
+  "manifest_sha256": "e6914edf16c8d20bc1dd0441d59b82ddd71927ec0a00f8ede63003ffeb55451a",
+  "status": "claimed",
+  "assigned_server": 2,
+  "batch": "ltx25_final50_server2_20261018_v1"
+}
